@@ -20,7 +20,7 @@ Detalhes e checklist: [`checklist-publicacao.md`](checklist-publicacao.md).
 | --- | --- |
 | [`pesquisa/`](pesquisa/analise-canais.md) | Resumo da análise dos 4 canais de referência |
 | [`ideias/`](ideias/ideias-videos.md) | Banco de ideias de vídeo |
-| [`roteiros/`](roteiros/_template-roteiro.md) | Template de roteiro e roteiros por episódio |
+| [`roteiros/`](roteiros/_template-roteiro.md) | Template, [guia de estilo](roteiros/guia-de-estilo.md) e roteiros por episódio (EP01 em [`ep01-comece-por-esta-ordem.md`](roteiros/ep01-comece-por-esta-ordem.md)) |
 | [`metricas/`](metricas/videos.csv) | Planilha de acompanhamento dos vídeos |
 | [`checklist-publicacao.md`](checklist-publicacao.md) | Checklist antes de publicar |
 
