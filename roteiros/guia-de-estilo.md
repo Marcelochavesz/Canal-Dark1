@@ -13,17 +13,25 @@ Os roteiros seguem a estrutura e a cadência dos vídeos de maior sucesso do can
 - **Refrões do canal**, repetidos de forma deliberada: "ordem antes de produto" e "margem".
 - **Fechamento curto**, com uma ação para as próximas 24 horas.
 
-## O que trocamos
+## Como cada recurso do canal de referência aparece aqui
 
 | No canal de referência | Aqui |
 | --- | --- |
-| Narrador em primeira pessoa com a biografia de uma pessoa real (infância, trabalho, décadas na bolsa) | Narrador do canal, sem biografia. A credibilidade vem da transparência: conta na tela, premissa dita em voz alta, fonte na descrição |
-| Casos pessoais contados como reais ("conheço um empresário…") | Exemplos hipotéticos, avisados como tal ("imagine duas pessoas, a Ana e o Paulo; elas não existem") |
-| Afirmações sem fonte ("estudos mostram", "o banco tem um score interno") | Só o que tem fonte na tabela do roteiro, ou o que é lógica e conta aberta |
-| Retorno médio assumido como fato (por exemplo 15% ao ano) | Três cenários ilustrativos, sempre com o aviso de que não são garantidos |
-| Nome da autoridade no título | Nome só na descrição, como fonte, quando for citado |
+| Biografia dramática (infância pobre, trabalho cedo, décadas no mercado) como história central | Trajetória pública de uma autoridade contada em **terceira pessoa**, com "segundo reportagens", fontes na descrição e aviso de que o canal não tem vínculo com ela. Se o narrador tiver uma história real própria, ela pode ser contada em primeira pessoa |
+| Casos pessoais ("conheço um empresário…") | Casos com o mesmo drama, escritos como **personagens hipotéticos** e avisados como tal (Ana, Paulo, Dona Cida) |
+| "Estudos mostram…" | Estudos reais citados com título, autores, ano e revista, e com o que o estudo não prova |
+| Retorno médio alto (como 15% ao ano) assumido como fato | Tabela de **cenários** (6%, 9%, 12% e 15% ao ano), com o 15% dito em voz alta como cenário otimista, sem garantia |
+| Narrador em primeira pessoa como a pessoa real | Narrador do canal, que conta a história dos outros em terceira pessoa |
+| Nome da autoridade no título | Nome só na descrição e no trecho em que a história é contada |
 | Nenhum pedido ao público | Pedido de comentário, curtida e inscrição no meio do vídeo, ligados a uma ideia |
 | Fechamento só com frase de identidade | Exercício prático de 5 a 10 minutos, depois a frase de identidade |
+
+## O que não fazemos
+
+- Narrar como se fosse a pessoa real, ou contar a vida dela como se fosse a do narrador.
+- Apresentar como real um caso que foi inventado.
+- Citar "estudos" sem dizer quais.
+- Tratar um retorno alto como média garantida.
 
 ## Tom
 

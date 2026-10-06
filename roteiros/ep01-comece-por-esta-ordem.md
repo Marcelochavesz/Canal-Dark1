@@ -2,7 +2,7 @@
 
 - **Ideia de origem:** nº 1 em [`ideias/ideias-videos.md`](../ideias/ideias-videos.md)
 - **Pilar:** Começar
-- **Duração estimada:** 17 a 18 minutos (cerca de 2.500 palavras faladas, a 145 palavras por minuto, sem contar gráficos e pausas)
+- **Duração estimada:** 22 a 23 minutos (cerca de 3.241 palavras faladas, a 145 palavras por minuto, sem contar gráficos e pausas)
 - **Narração:** voz própria ou voz sintética genérica, declarada
 - **Estilo:** [`guia-de-estilo.md`](guia-de-estilo.md)
 - **Status:** rascunho
@@ -20,6 +20,10 @@ Ao final do vídeo, você sabe em qual dos quatro degraus está (dívida cara, r
 | Reserva de 6 meses sobre despesas essenciais de R$ 3.200 = R$ 19.200 | Cálculo próprio | Pronto |
 | R$ 300 por mês por 5 anos a 0,6% ao mês = R$ 21.589 (R$ 18.000 aportados) | Cálculo próprio, aporte no fim do mês. Taxa é hipótese | Pronto |
 | R$ 100.000 com distribuição hipotética de 6% ao ano = R$ 6.000 por ano ou R$ 500 por mês | Cálculo próprio. Sem imposto. Taxa é hipótese | Pronto |
+| Dona Cida: empréstimo de R$ 4.000 em 12x a 6% ao mês, parcela de R$ 477,11, total de R$ 5.725,30, juros de R$ 1.725,30; reserva de 3 meses sobre R$ 2.800 = R$ 8.400 | Cálculo próprio (parcela fixa). Taxa é hipótese | Pronto |
+| R$ 1.000 por mês a 6%, 9%, 12% e 15% ao ano, em 10 e 20 anos (tabela do degrau 3) | Cálculo próprio, juros compostos, aporte no fim do mês, taxa mensal equivalente à anual. Sem imposto nem inflação. Taxas são cenários | Pronto |
+| Estudo "Poverty Impedes Cognitive Function" (Mani, Mullainathan, Shafir e Zhao, Science, 2013): experimento com pensamentos financeiros e 464 agricultores de cana na Índia | Artigo da revista Science e página da universidade. Dados vieram de resultados de busca | **A verificar** (páginas não abertas) |
+| Trajetória pública de Luiz Barsi Filho (nascimento, cortiço no Brás, trabalho infantil, entrada na corretora, apelido) | Reportagens (CNN Brasil, Fast Company Brasil, InfoMoney e outras). Dados vieram de resultados de busca | **A verificar** (páginas não abertas; fontes divergem na idade) |
 | Taxa média atual de juros do cartão de crédito | Banco Central, estatísticas de juros de operações de crédito | **A verificar antes de gravar** (mostrar o mês consultado) |
 | Custo Efetivo Total (CET) deve ser informado nos contratos de crédito | Banco Central, página sobre CET | **A verificar** |
 | Condições atuais do Tesouro Selic e cobertura do FGC | Tesouro Direto e FGC, páginas oficiais | **A verificar** |
@@ -30,6 +34,8 @@ Ao final do vídeo, você sabe em qual dos quatro degraus está (dívida cara, r
 - Rentabilidade passada não garante rentabilidade futura.
 - As contas não consideram imposto, taxas nem inflação.
 - Os personagens são hipotéticos.
+- As taxas de 12% e 15% ao ano são cenários otimistas, não garantias.
+- O canal não tem vínculo com as pessoas citadas.
 
 ## Mapa de tempo
 
@@ -38,12 +44,12 @@ Ao final do vídeo, você sabe em qual dos quatro degraus está (dívida cara, r
 | 0:00 a 1:20 | Gancho |
 | 1:20 a 2:40 | Combinados, promessa e pedido de comentário |
 | 2:40 a 5:20 | Degrau 1: dívida cara |
-| 5:20 a 8:30 | Degrau 2: reserva (Ana e Paulo) e pedido de curtida |
-| 8:30 a 11:00 | Degrau 3: renda fixa com data de uso |
-| 11:00 a 14:45 | Degrau 4: renda variável e dividendos, com pedido de inscrição |
-| 14:45 a 15:40 | Resumo |
-| 15:40 a 16:45 | Exercício |
-| 16:45 a 17:30 | Fechamento |
+| 5:20 a 10:55 | Degrau 2: reserva (Ana e Paulo, Dona Cida, estudo) e pedido de curtida |
+| 10:55 a 14:40 | Degrau 3: renda fixa com data de uso e cenários de retorno |
+| 14:40 a 19:50 | Degrau 4: trajetória pública, dividendos e pedido de inscrição |
+| 19:50 a 20:45 | Resumo |
+| 20:45 a 21:45 | Exercício |
+| 21:45 a 22:20 | Fechamento |
 
 ## Roteiro
 
@@ -91,7 +97,7 @@ E o que fazer se você não consegue quitar tudo agora? Três coisas. Primeira: 
 
 Agora, uma pergunta importante: e se você não tem dívida cara? Então você já está um degrau à frente, e o próximo é o que mais protege as pessoas depois dos 50.
 
-### Degrau 2: reserva (5:20 a 8:30)
+### Degrau 2: reserva (5:20 a 10:55)
 
 [NA TELA: degrau 2 iluminado]
 
@@ -111,13 +117,26 @@ Repara no que aconteceu. Os dois têm o mesmo salário, a mesma idade e a mesma 
 
 Se essa conta fez você olhar para a sua própria situação com outros olhos, deixa o seu like. Isso ajuda o vídeo a chegar a mais gente que está no mesmo ponto, e me diz que esse tipo de conta, com número na tela, é o que você quer ver aqui.
 
+[NA TELA: aviso "Personagem hipotética"]
+
+Vou te apresentar mais uma personagem, e de novo ela não existe: a Dona Cida. Ela tem 54 anos, é costureira por conta própria, e a renda dela muda de mês para mês. Num mês bom, entram R$ 4.500. Num mês fraco, R$ 2.000. As despesas essenciais dela são R$ 2.800.
+
+Num mês fraco, faltam R$ 800 para fechar as contas. Se ela não tem reserva, só existe um caminho: pedir dinheiro. Imagine que o banco ofereça R$ 4.000 em 12 parcelas, com juro de 6% ao mês, como hipótese. A parcela é de R$ 477,11, e no total ela paga R$ 5.725,30. São R$ 1.725,30 só de juros. E a parcela de R$ 477 vai pesar em todos os meses seguintes, inclusive nos fracos.
+
+Agora imagine a Dona Cida com três meses de despesas essenciais guardados, R$ 8.400. No mês fraco, ela tira R$ 800 da reserva, fecha as contas e repõe nos meses bons. Nenhum banco entrou na história. A diferença não está no talento dela como costureira. Está na folga entre o que entra e o que precisa sair.
+
+Existe também um lado menos visível dessa margem, e eu quero te mostrar com uma pesquisa, não com opinião. Em 2013, um grupo de pesquisadores publicou na revista Science um estudo chamado "Poverty Impedes Cognitive Function", algo como "A pobreza prejudica a função cognitiva". Em um dos experimentos, as pessoas foram levadas a pensar em problemas financeiros, e o desempenho em testes de raciocínio caiu entre os participantes de renda mais baixa, mas não entre os de renda mais alta. Em outro, os pesquisadores acompanharam 464 agricultores de cana na Índia, e cada um deles foi melhor nos testes depois da colheita, quando havia dinheiro, do que antes, quando faltava. Os autores concluem que a preocupação financeira ocupa espaço mental. Isso não prova que aconteça do mesmo jeito com você, e eu não vou fingir que prova. Mas ajuda a entender por que ter margem não é só uma questão de saldo: você pensa melhor quando não está com a próxima fatura na cabeça.
+
+[NA TELA: referência "Mani, Mullainathan, Shafir e Zhao. Science, 2013"]
+[CONFERIR antes de gravar: abrir o artigo ou a página da revista e confirmar o desenho dos estudos, o número de participantes e o texto das conclusões. Os dados acima vêm de resultados de busca; as páginas não foram abertas.]
+
 Agora, a pergunta que todo mundo faz: quanto guardar? A resposta clássica é entre três e seis meses de despesas essenciais. Depois dos 50, muita gente prefere o prazo maior, principalmente se a renda é instável ou se uma recolocação no mercado pode demorar. A conta é simples: despesas essenciais do mês, vezes o número de meses. Para o Paulo, R$ 3.200 vezes 6, R$ 19.200. E repara que eu disse essenciais: aluguel ou financiamento, comida, contas básicas, remédios, transporte. Não entra viagem, não entra assinatura.
 
 E onde deixar? Três critérios, nesta ordem. Segurança: o dinheiro não pode correr risco de perder valor. Liquidez: você precisa conseguir tirar rápido, sem perder nada. Custo: sem tarifa que coma o rendimento. Produtos de baixo risco e liquidez diária, como o Tesouro Selic ou um CDB com liquidez diária, costumam ser considerados para essa função. Mas eu repito: confira as condições atuais, inclusive a cobertura do FGC no caso de CDB, antes de decidir.
 
 A reserva não é um investimento para render. É um seguro contra ter que vender o que você construiu na hora errada.
 
-### Degrau 3: renda fixa com data de uso (8:30 a 11:00)
+### Degrau 3: renda fixa com data de uso (10:55 a 14:40)
 
 [NA TELA: degrau 3 iluminado]
 
@@ -135,15 +154,42 @@ Agora, a parte que a maioria ignora: o hábito. Quem começa depois dos 50 costu
 
 Eu não estou dizendo que R$ 3.589 vai mudar a sua vida. Estou dizendo que o valor que mais importa nessa conta é o R$ 18.000, e esse é o que depende só de você. Nos primeiros anos, quem constrói patrimônio vive de disciplina, não de rendimento. O rendimento é o prêmio que vem depois.
 
+Agora vamos ver o que o tempo faz com um aporte maior. Imagine R$ 1.000 por mês. Eu vou usar quatro taxas, não uma, porque você precisa ver um intervalo e não uma promessa.
+
+[NA TELA: tabela, aporte de R$ 1.000 por mês no fim do mês, sem imposto nem inflação]
+
+| Rendimento ao ano | Em 10 anos | Em 20 anos |
+| --- | --- | --- |
+| 6% | R$ 162.473 | R$ 453.439 |
+| 9% | R$ 189.719 | R$ 638.852 |
+| 12% | R$ 221.930 | R$ 911.211 |
+| 15% | R$ 259.973 | R$ 1.311.707 |
+
+Nesse período, o que você tirou do bolso foi R$ 120.000 em 10 anos e R$ 240.000 em 20 anos.
+
+Repara em duas coisas. A primeira: nos primeiros anos, a diferença entre as taxas é pequena. Em 10 anos, a distância entre 6% e 15% é de cerca de R$ 97 mil. Em 20 anos, passa de R$ 858 mil. O tempo faz o trabalho pesado, e quanto mais tempo, mais cada ponto percentual pesa.
+
+A segunda: a taxa de 15% ao ano é um cenário otimista. Não é média garantida e não é promessa. Para chegar perto dela, em geral, é preciso aceitar oscilação e a possibilidade de perda. Quem planeja com a taxa mais alta corre o risco de descobrir tarde que a conta não fecha. Por isso, planeje com as taxas conservadoras e trate as altas como bônus. Use o 6% e o 9% para planejar, e o 15% para sonhar sem se enganar.
+
 E como manter a disciplina? Automatize. No dia em que o salário cai, o aporte sai. Não é o que sobra no fim do mês. Quem espera sobrar descobre que nunca sobra.
 
 Agora vem o degrau que mais gera dúvida, e que mais gente pula.
 
-### Degrau 4: renda variável e dividendos (11:00 a 14:45)
+### Degrau 4: renda variável e dividendos (14:40 a 19:50)
 
 [NA TELA: degrau 4 iluminado]
 
 Quarto degrau: renda variável. Aqui entram as ações e os fundos de investimento que compram ações ou imóveis. E é aqui que entram os dividendos.
+
+[NA TELA: aviso "Informações de reportagens públicas. Este canal não tem vínculo com Luiz Barsi."]
+
+Para entender a ideia de viver de dividendos, vale conhecer uma história que reportagens públicas contam sobre um dos investidores pessoa física mais conhecidos do Brasil, Luiz Barsi Filho. Segundo essas reportagens, ele nasceu em 1939, em São Paulo, numa família de imigrantes, e cresceu num cortiço no Brás. Ainda criança, começou a trabalhar para ajudar a mãe, engraxando sapatos. Aos 14 anos, entrou numa corretora e passou a se interessar pelo mercado financeiro. Com o tempo, ficou conhecido por uma estratégia de comprar participação em empresas que distribuem lucro e mantê-las por muitos anos, e por isso ganhou o apelido de "rei dos dividendos".
+
+[CONFERIR antes de gravar: ano de nascimento, idade em que começou a trabalhar (os vídeos do canal de referência dizem 9 anos; um resumo de busca indica 7), idade em que entrou na corretora e o que as reportagens dizem sobre o pai. As páginas das matérias não foram abertas; usar só o que estiver confirmado em pelo menos duas fontes e citar as fontes na descrição.]
+
+Eu conto isso por dois motivos. Primeiro, porque a história mostra que a estratégia pela qual ele ficou conhecido é de paciência, não de golpe de sorte. Segundo, porque eu quero ser claro: este canal não tem relação com ele, não fala por ele e não sabe o que ele pensaria da sua situação. O que eu faço aqui é contar o que está nas reportagens e te mostrar a lógica com as minhas contas, que você pode refazer.
+
+Agora, o que é dividendo.
 
 Dividendo é a parte do lucro de uma empresa que ela distribui aos acionistas. Quando você compra uma ação, você se torna sócio, ainda que muito pequeno, daquele negócio. Se a empresa lucra e decide distribuir, você recebe uma parte.
 
@@ -161,7 +207,7 @@ O que eu posso te dizer é o que olhar quando for estudar uma empresa. Primeiro,
 
 E uma observação importante para quem tem 50 anos ou mais. O seu horizonte é mais curto do que o de quem tem 25, e isso não é um problema, é só uma informação. Significa que a parte do seu patrimônio na renda variável deve ser proporcional ao tempo que você tem e à oscilação que você aguenta. Ninguém precisa estar 100% em nada.
 
-### Resumo (14:45 a 15:40)
+### Resumo (19:50 a 20:45)
 
 [NA TELA: os quatro degraus, um por vez, com uma frase]
 
@@ -171,7 +217,7 @@ Ordem antes de produto.
 
 Agora volta lá no comentário que você escreveu no começo. Em que degrau você disse que estava? Se acertou, ótimo. Se errou, ótimo também, porque agora você sabe onde está de verdade.
 
-### Exercício (15:40 a 16:45)
+### Exercício (20:45 a 21:45)
 
 [NA TELA: contagem regressiva de 10 minutos e o modelo da planilha]
 
@@ -185,7 +231,7 @@ Coluna três: quanto você consegue aportar por mês sem comprometer o essencial
 
 Quando terminar, marque com um círculo o degrau em que você está. E escolha uma única ação para as próximas 24 horas. Uma só.
 
-### Fechamento (16:45 a 17:30)
+### Fechamento (21:45 a 22:20)
 
 Se você chegou até aqui, já fez o que a maioria das pessoas nunca faz: parou para entender a ordem antes de correr atrás do produto.
 
@@ -201,7 +247,7 @@ Ordem antes de produto. No próximo vídeo, a gente calcula o seu número. Até 
   3. Antes de Investir Depois dos 50: Os 4 Degraus (Com a Conta na Tela)
 - **Miniatura:** texto "4 DEGRAUS" e "ORDEM CERTA" sobre uma escada ilustrada, sem rosto e sem nome de terceiros.
 - **Descrição:** resumo em 2 linhas, os quatro degraus, fontes da tabela acima com data de consulta, avisos obrigatórios, declaração de que o canal é independente e não tem vínculo com as pessoas ou instituições citadas, e declaração de uso de voz sintética ou IA, se houver.
-- **Capítulos:** 0:00 Gancho; 1:20 Combinados; 2:40 Degrau 1; 5:20 Degrau 2; 8:30 Degrau 3; 11:00 Degrau 4; 14:45 Resumo; 15:40 Exercício; 16:45 Fechamento. Ajustar depois da edição final.
+- **Capítulos:** 0:00 Gancho; 1:20 Combinados; 2:40 Degrau 1; 5:20 Degrau 2; 10:55 Degrau 3; 14:40 Degrau 4; 19:50 Resumo; 20:45 Exercício; 21:45 Fechamento. Ajustar depois da edição final.
 
 ## Antes de gravar
 
