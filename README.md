@@ -1,39 +1,40 @@
 # Canal-Dark1
 
-Canal faceless de educação financeira em português (Brasil), focado em investimento de longo prazo e dividendos para quem está começando, com ênfase no público 50+.
+Canal faceless de mentalidade, lei da atração e prosperidade em português (Brasil), com Bob Proctor como autoridade citada. O objetivo é entregar algo que o espectador possa fazer no mesmo dia, com dado real quando houver e sem promessa de resultado.
 
-O canal usa **roteiros originais**. Autoridades do mercado entram como **fonte citada**, nunca como voz do canal.
+O canal usa **roteiros originais**. Autoridades entram como **fonte citada**, nunca como voz do canal.
 
 ## Regras do canal
 
-1. **Roteiro original.** Nada de reescrever a fala de outra pessoa em primeira pessoa.
+1. **Roteiro original.** Terceira pessoa ("segundo Bob Proctor…"), só com o que a fonte de fato diz. Nada de reescrever a fala de outra pessoa em primeira pessoa.
 2. **Narração:** voz própria ou voz sintética genérica, declarada quando a plataforma exigir. Sem clonagem da voz de pessoa real, e sem imitar o estilo para parecer que é ela.
-3. **Sem biografia inventada.** O narrador não conta infância, casos pessoais ou "conheço um empresário" que não aconteceram.
-4. **Números com fonte ou premissa na tela.** Sem promessa de retorno e sem indicar ativos específicos.
-5. **Títulos e miniaturas** não usam o nome de terceiros de um jeito que sugira que a pessoa está falando.
+3. **Sem biografia inventada.** O narrador não conta infância ou casos pessoais que não aconteceram. Exemplos hipotéticos são ditos como hipotéticos.
+4. **Dados com fonte na tela.** Sem promessa de resultado (dinheiro, saúde) e sem indicar produtos ou ativos.
+5. **Títulos e capas:** sem foto ou imagem de IA do rosto do Proctor, sem citação inventada entre aspas com o nome dele e sem sugerir vínculo com ele ou com o Proctor Gallagher Institute.
 
-Detalhes e checklist: [`checklist-publicacao.md`](checklist-publicacao.md).
+Detalhes e checklist: [`checklist-publicacao.md`](checklist-publicacao.md). O checklist ainda tem itens do projeto anterior de finanças e precisa ser revisto.
 
 ## Estrutura
 
 | Pasta ou arquivo | Para quê |
 | --- | --- |
-| [`pesquisa/`](pesquisa/analise-canais.md) | Resumo da análise dos 4 canais de referência |
-| [`ideias/`](ideias/ideias-videos.md) | Banco de ideias de vídeo |
-| [`roteiros/`](roteiros/_template-roteiro.md) | Template, [guia de estilo](roteiros/guia-de-estilo.md) e roteiros por episódio (EP01 em [`ep01-comece-por-esta-ordem.md`](roteiros/ep01-comece-por-esta-ordem.md)) |
+| [`estrategia/`](estrategia/estrategia-do-canal.md) | Público, pilares, temas dos primeiros vídeos, títulos, capas, comentários e plano de teste |
+| [`pesquisa/`](pesquisa/publico-alvo.md) | [Público-alvo](pesquisa/publico-alvo.md) (comentários), [transcrições do Vibração](pesquisa/transcricoes-vibracao/README.md) e [análise dos canais de referência](pesquisa/analise-canais.md) |
+| [`roteiros/`](roteiros/estrutura-retencao.md) | [Estrutura de retenção](roteiros/estrutura-retencao.md), template, guia de estilo e roteiros por episódio |
+| [`ideias/`](ideias/ideias-videos.md) | Banco de ideias de vídeo (as atuais estão em `estrategia/`; o arquivo de ideias é do projeto anterior de finanças) |
 | [`metricas/`](metricas/videos.csv) | Planilha de acompanhamento dos vídeos |
 | [`checklist-publicacao.md`](checklist-publicacao.md) | Checklist antes de publicar |
 
 ## Fluxo de trabalho
 
-1. Escolher uma ideia em `ideias/` e copiar o template para `roteiros/epNN-slug.md`.
-2. Escrever o roteiro e preencher as fontes de cada número.
+1. Escolher um tema em `estrategia/estrategia-do-canal.md` e copiar o template para `roteiros/epNN-slug.md`.
+2. Escrever o roteiro na estrutura de `roteiros/estrutura-retencao.md` e preencher as fontes de cada dado.
 3. Passar o checklist de publicação.
-4. Produzir e editar o vídeo.
+4. Produzir e editar o vídeo, com título e capa do teste planejado.
 5. Registrar o resultado em `metricas/videos.csv` 7 e 30 dias depois.
 
 ## Como avaliar
 
-Meta inicial: 3 a 5 vídeos e uma avaliação em 30 dias. O critério é o **outlier**: views do vídeo divididas pela média de views do próprio canal. Considerar forte a partir de 2x.
+Meta inicial: 3 a 5 vídeos e uma avaliação em 30 dias. O critério é o **outlier**: views do vídeo divididas pela média de views do próprio canal. Considerar forte a partir de 2x. Retenção, CTR e comentários seguem o plano de teste da estratégia.
 
-Relatório completo da pesquisa: [Análise de canais de autoridade](https://claude.ai/code/artifact/42b28279-4e9d-4871-8afe-54f99102c63a).
+Relatório da pesquisa inicial de canais: [Análise de canais de autoridade](https://claude.ai/code/artifact/42b28279-4e9d-4871-8afe-54f99102c63a).
