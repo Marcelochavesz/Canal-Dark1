@@ -2,3 +2,6 @@
 # Fotos do Proctor e capas finais ficam fora do repositório (ele é público)
 ferramentas/capas/fotos/
 capas-finais/
+
+__pycache__/
+*.pyc
