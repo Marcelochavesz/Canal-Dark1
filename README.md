@@ -10,7 +10,7 @@ O canal usa **roteiros originais**. Autoridades entram como **fonte citada**, nu
 2. **Narração:** voz própria ou voz sintética genérica, declarada quando a plataforma exigir. Sem clonagem da voz de pessoa real, e sem imitar o estilo para parecer que é ela.
 3. **Sem biografia inventada.** O narrador não conta infância ou casos pessoais que não aconteceram. Exemplos hipotéticos são ditos como hipotéticos.
 4. **Dados com fonte na tela.** Sem promessa de resultado (dinheiro, saúde) e sem indicar produtos ou ativos.
-5. **Títulos e capas:** sem foto ou imagem de IA do rosto do Proctor, sem citação inventada entre aspas com o nome dele e sem sugerir vínculo com ele ou com o Proctor Gallagher Institute.
+5. **Títulos e capas:** a capa traz a autoridade, com foto **licenciada ou autorizada** (nunca captura de tela de terceiros nem imagem de IA realista dele). Sem citação inventada entre aspas com o nome dele, com a fita "SEGUNDO BOB PROCTOR" e sem sugerir vínculo com ele ou com o Proctor Gallagher Institute.
 
 Detalhes e checklist: [`checklist-publicacao.md`](checklist-publicacao.md). O checklist ainda tem itens do projeto anterior de finanças e precisa ser revisto.
 
@@ -18,11 +18,11 @@ Detalhes e checklist: [`checklist-publicacao.md`](checklist-publicacao.md). O ch
 
 | Pasta ou arquivo | Para quê |
 | --- | --- |
-| [`estrategia/`](estrategia/estrategia-do-canal.md) | [Estratégia](estrategia/estrategia-do-canal.md), [subnichos](estrategia/subnichos.md), [plano dos 10 primeiros vídeos](estrategia/plano-10-videos.md) e [template de capa](estrategia/capas-template.md) |
+| [`estrategia/`](estrategia/estrategia-do-canal.md) | [Estratégia](estrategia/estrategia-do-canal.md), [subnichos](estrategia/subnichos.md), [plano dos 10 primeiros vídeos](estrategia/plano-10-videos.md) e [capas e testes A/B](estrategia/capas-template.md) |
 | [`pesquisa/`](pesquisa/publico-alvo.md) | [Público-alvo](pesquisa/publico-alvo.md) (comentários), [padrões de títulos e capas](pesquisa/padroes-titulos-capas.md), [transcrições do Vibração](pesquisa/transcricoes-vibracao/README.md) e [análise dos canais de referência](pesquisa/analise-canais.md) |
 | [`roteiros/`](roteiros/estrutura-retencao.md) | [Estrutura de retenção](roteiros/estrutura-retencao.md), [formato de imagens sobre narração](roteiros/formato-imagens-sobre-narracao.md), [EP01](roteiros/ep01-permissao-dinheiro.md), template e guia de estilo. O `ep01-comece-por-esta-ordem.md` é do projeto anterior de finanças |
 | [`ideias/`](ideias/ideias-videos.md) | Banco de ideias de vídeo (as atuais estão em `estrategia/`; o arquivo de ideias é do projeto anterior de finanças) |
-| [`ferramentas/`](ferramentas/capas/README.md) | Script que compõe as capas no estilo faixa |
+| [`ferramentas/`](ferramentas/capas/README.md) | Script que compõe as capas (três padrões, com a autoridade) |
 | [`metricas/`](metricas/videos.csv) | Planilha de acompanhamento dos vídeos |
 | [`checklist-publicacao.md`](checklist-publicacao.md) | Checklist antes de publicar |
 

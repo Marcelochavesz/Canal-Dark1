@@ -80,9 +80,9 @@ Dois sinais recentes de que o Howes está no nosso tema hoje: "Como reprogramar 
 
 - A capa **repete a promessa do título em versão curta** e com o mesmo prazo ("em 30 dias" no título e na capa). Isso é o contrário da nossa regra 6 ("título e capa não repetem as mesmas palavras"). Fica como teste.
 - Uma capa de 6,3 milhões no canal em inglês usa uma **porta dourada com moedas e uma silhueta entrando na luz** ("ATTRACT MONEY FORMULA!"), ao lado dos rostos. Imagem simbólica de dinheiro funciona como destaque.
-- A capa em inglês de Proctor (4,4 milhões, "MANIFEST YOUR LIFE IN 9 DAYS") é um close grande do rosto dele com texto branco brilhante. Nós não usamos o rosto dele.
+- A capa em inglês de Proctor (4,4 milhões, "MANIFEST YOUR LIFE IN 9 DAYS") é um close grande do rosto dele com texto branco brilhante. É o padrão de autoridade em destaque que o canal vai seguir (decisão de 08/10), com foto licenciada.
 
-**O que não copiamos:** rosto de pessoa real; texto com palavrão ("O UNIVERSO NÃO SE IMPORTA UMA M**DA"); promessa de saúde ("CURE E MANIFESTE"); promessa de dinheiro fácil ("FICAR RICO É SUPER FÁCIL"); e a ideia de inimigo oculto ("COMO ELES TE MANTÊM POBRE").
+**O que não copiamos:** o rosto de convidados e do apresentador (usamos só o da autoridade, com licença); texto com palavrão ("O UNIVERSO NÃO SE IMPORTA UMA M**DA"); promessa de saúde ("CURE E MANIFESTE"); promessa de dinheiro fácil ("FICAR RICO É SUPER FÁCIL"); e a ideia de inimigo oculto ("COMO ELES TE MANTÊM POBRE").
 
 ---
 
@@ -164,7 +164,7 @@ Um achado extra: o título do Vibração "Como criar uma vibração tão FORTE q
 
 1. Imagem com um assunto e **texto de 3 a 5 palavras** grande, com uma palavra maior que as outras.
 2. Faixa de cor atrás do texto (a do Howes é vermelho-laranja) ou texto amarelo e branco sobre fundo escuro (o padrão dos ensaios).
-3. **Imagem simbólica no lugar do rosto:** porta de luz dourada com moedas, teto de vidro, termostato, caderno. O exemplo da porta dourada do Howes (6,3 milhões) mostra que isso funciona ao lado de rostos. Sem rostos, ainda é uma hipótese.
+3. **A autoridade com elementos simbólicos junto:** porta de luz dourada com moedas, teto de vidro, termostato, caderno. O exemplo da porta dourada do Howes (6,3 milhões) mostra que isso funciona ao lado de rostos. Decisão de 08/10: a autoridade sempre aparece. Ver [capas e testes A/B](../estrategia/capas-template.md).
 4. Cor dominante amarela ou dourada em 7 de 12 capas de ensaio. Os três canais da rede convergem para a mesma paleta, então testar uma paleta própria também faz sentido.
 5. Capa e título com a mesma promessa em palavras diferentes (a nossa regra) contra a mesma promessa em versão curta (o padrão do Howes). Testar.
 6. Seta ou destaque apontando para o elemento principal (usado em capas de 1,2 a 1,6 milhão).

@@ -87,15 +87,15 @@ Vi as capas dos 8 vídeos de maior alcance da Excelência, 8 do Portador e 9 do 
 
 **Padrões que se repetem** (observação, não causa): imagem com um único assunto, texto grande e curto, fundo escuro com alto contraste, uma cor de destaque, template igual em todo o canal.
 
-**Nossa direção:**
+**Nossa direção (decisão de 08/10/2026):**
 
-- **Sem rosto de pessoa real.** Nem foto do Proctor, nem imagem de IA com o rosto dele. Uso de imagem de terceiros é risco legal e sugere que ele endossa o canal.
-- **Sem citação inventada entre aspas com o nome dele.** As capas do Vibração fazem isso ("Quanto menos você persegue, mais você atrai. -Bob Proctor"), e não sei se ele disse essas frases. Citação só se for verificada, com fonte, e no corpo do vídeo.
-- **Arte simbólica** ligada ao tema (termostato, porta, balança, relógio), sem rosto, no estilo cinematográfico do Portador.
-- **Texto de 2 a 5 palavras**, em comando ou pergunta, com uma palavra em cor de destaque.
-- **Paleta:** os três canais convergem para fundo escuro com amarelo, branco e vermelho. Testar uma paleta própria (por exemplo, azul-petróleo com dourado) contra a paleta padrão.
+- **A autoridade sempre na capa**, com elementos de fundo junto dela, como nas capas virais. Nunca só símbolo e texto.
+- **Foto licenciada ou autorizada.** Sem captura de tela de terceiros e sem imagem de IA realista dele.
+- **Sem citação inventada entre aspas com o nome dele.** A fita diz "SEGUNDO BOB PROCTOR".
+- **Texto de 3 a 5 palavras**, em comando ou pergunta, com uma palavra de impacto em dourado.
+- **Três padrões para teste A/B:** faixa, retrato P&B e prazo gigante, na mesma identidade visual. Detalhes em [capas-template.md](capas-template.md).
 
-**Briefs do EP01** (título 2 da tabela):
+**Briefs do EP01** (agora com a autoridade em todos; ver [capas-template.md](capas-template.md)):
 
 | Opção | Texto | Imagem |
 | --- | --- | --- |

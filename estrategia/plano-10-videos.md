@@ -8,7 +8,7 @@
 | Fé | Só como **tom** (respeito e gratidão). O foco é o que é concreto e tangível. |
 | Micronichos | Os três: **reprogramar a mente para o dinheiro (2)**, **merecimento (3)** e **lei da atração sem ilusão (1)**. O foco está em 2 e 3. |
 | Formato | Narração com imagens ao fundo, como o Vibração, com roteiro de protocolo ([formato](../roteiros/formato-imagens-sobre-narracao.md)). |
-| Capas | Estilo "faixa", inspirado no Lewis Howes, sem rosto ([template](capas-template.md)). |
+| Capas | **A autoridade sempre na capa**, com elementos de fundo, em três padrões para teste A/B: faixa, retrato P&B e prazo gigante ([capas](capas-template.md)). Foto licenciada. |
 | Prático | Dar mais peso ao conteúdo prático e de dinheiro, como o vídeo das "Leis" do Vibração (seção abaixo). |
 
 Base de dados: [subnichos](subnichos.md), [público-alvo](../pesquisa/publico-alvo.md), [estrutura de retenção](../roteiros/estrutura-retencao.md) e [padrões de títulos e capas](../pesquisa/padroes-titulos-capas.md).
@@ -56,7 +56,7 @@ Conforme o [plano de teste](estrategia-do-canal.md): uma variável por vez.
 | Vídeo | Teste | Métrica |
 | --- | --- | --- |
 | 1 | Título sem o nome do Proctor contra "O Que Bob Proctor Ensinava Sobre Dinheiro (e Por Que Você Se Limita)" (68 caracteres) | CTR em 48 horas |
-| 2 | Capa em paleta padrão (faixa vermelho-laranja) contra paleta própria (azul-petróleo e dourado) | CTR |
+| 2 | Padrão de capa: faixa contra retrato P&B contra prazo gigante (as três miniaturas do mesmo vídeo) | CTR e fatia do tempo de exibição |
 | 3 | Pedido com frase-decreto contra pergunta aberta | Comentários por mil views e % em palavras próprias |
 | 4 | Pedido no meio contra depois do protocolo | Retenção em torno do ponto |
 | 5 | Gancho modelo A (cena e virada) contra modelo B (dado surpreendente) | Retenção aos 30 segundos |
