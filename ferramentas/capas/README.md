@@ -13,7 +13,7 @@ pip install pillow
 ```bash
 python3 compor_capa.py --modelo faixa --autoridade foto_proctor.png \
   --linha1 "SEU" --palavra "TETO" --linha3 "FINANCEIRO" --simbolo teto \
-  --marca "NOME DO CANAL" --saida capa_ep01_faixa.png
+  --saida capa_ep01_faixa.png
 ```
 
 Os três modelos usam as mesmas opções. Troque `--modelo`:
@@ -28,12 +28,12 @@ Os três modelos usam as mesmas opções. Troque `--modelo`:
 | --- | --- |
 | `--autoridade` | Foto da autoridade (PNG com fundo transparente é o ideal) ou `placeholder` para testar o layout |
 | `--linha1`, `--palavra`, `--linha3` | As três linhas do texto. A palavra é a grande. As outras duas são opcionais |
-| `--nome` | Texto da fita ou da assinatura. Padrão: `SEGUNDO BOB PROCTOR` |
+| `--nome` | Texto da fita ou da assinatura. Padrão: `BOB PROCTOR` |
 | `--simbolo` | Arte provisória de fundo: `teto`, `termostato`, `caderno`, `porta` |
 | `--fundo` | Imagem de fundo própria (gerada), no lugar da arte provisória |
 | `--paleta` | `marca` (padrão do canal) ou `vermelha` (variação de teste da faixa) |
 | `--pb` | Autoridade em preto e branco (o modelo `retrato` já usa) |
-| `--marca` | Nome do canal, pequeno, no canto |
+| `--marca` | Texto pequeno no canto (por exemplo o nome do canal). Desligado por padrão: as capas não levam fita com o nome do canal |
 | `--sem-rotulo` | Tira o rótulo "foto licenciada entra aqui" do placeholder |
 | `--saida` | Arquivo de saída. Manter até 2 MB para o YouTube |
 

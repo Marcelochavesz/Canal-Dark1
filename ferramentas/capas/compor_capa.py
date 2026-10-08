@@ -385,7 +385,7 @@ def main():
     p = argparse.ArgumentParser(description="Compõe uma capa 1280x720 com a autoridade em destaque.")
     p.add_argument("--modelo", choices=sorted(MODELOS), default="faixa")
     p.add_argument("--autoridade", required=True, help="foto da autoridade (PNG com transparência é o ideal) ou 'placeholder'")
-    p.add_argument("--nome", default="SEGUNDO BOB PROCTOR", help="fita ou assinatura com o nome. Vazio para não mostrar")
+    p.add_argument("--nome", default="BOB PROCTOR", help="fita ou assinatura com o nome. Vazio para não mostrar")
     p.add_argument("--linha1", default="", help="linha pequena de cima")
     p.add_argument("--palavra", required=True, help="palavra, número ou prazo grande")
     p.add_argument("--linha3", default="", help="linha pequena de baixo")

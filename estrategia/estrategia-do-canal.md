@@ -91,7 +91,7 @@ Vi as capas dos 8 vídeos de maior alcance da Excelência, 8 do Portador e 9 do 
 
 - **A autoridade sempre na capa**, com elementos de fundo junto dela, como nas capas virais. Nunca só símbolo e texto.
 - **Foto licenciada ou autorizada.** Sem captura de tela de terceiros e sem imagem de IA realista dele.
-- **Sem citação inventada entre aspas com o nome dele.** A fita diz "SEGUNDO BOB PROCTOR".
+- **Sem citação inventada entre aspas com o nome dele.** A fita traz só "BOB PROCTOR".
 - **Texto de 3 a 5 palavras**, em comando ou pergunta, com uma palavra de impacto em dourado.
 - **Três padrões para teste A/B:** faixa, retrato P&B e prazo gigante, na mesma identidade visual. Detalhes em [capas-template.md](capas-template.md).
 
@@ -163,7 +163,7 @@ Repetir o que vencer em dois vídeos seguidos. Não usar limite numérico antes 
 - **Público financeiramente vulnerável:** sem promessa de dinheiro, sem indicar produto, sem pressão de compra. Conteúdo educativo, não consultoria.
 - **Fé:** respeito. Não zombar, não prometer milagre.
 - **Saúde mental:** o tema do medo ganha aviso de buscar ajuda profissional quando a ansiedade atrapalhar a vida.
-- **Proctor:** terceira pessoa, fonte conferida, foto autorizada na capa com a fita "SEGUNDO BOB PROCTOR" e sem citação inventada. A autorização do canal é declarada só na descrição do canal, pelo dono; os vídeos e as descrições dos vídeos não tratam dela.
+- **Proctor:** terceira pessoa, fonte conferida, foto autorizada na capa com a fita "BOB PROCTOR" e sem citação inventada. A autorização do canal é declarada só na descrição do canal, pelo dono; os vídeos e as descrições dos vídeos não tratam dela.
 - **Voz sintética:** declarar quando a plataforma exigir. Cuidar da qualidade (um comentário da amostra, "a tosse foi fantástica!", pode se referir a ruído na narração).
 - **Conteúdo repetitivo:** mudar exemplo, dado e ângulo a cada vídeo e conferir a política atual do YouTube para monetização.
 

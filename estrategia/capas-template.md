@@ -22,8 +22,8 @@ Vale para os três padrões. Muda o arranjo, não a identidade.
 | Fonte do texto | Anton, caixa alta, inclinada 12 graus |
 | Fonte da assinatura | Dancing Script (só no padrão retrato) |
 | Contorno da autoridade | Dourado, para destacar do fundo |
-| Nome | "SEGUNDO BOB PROCTOR" em fita dourada ou em assinatura |
-| Marca | Nome do canal pequeno, no canto superior esquerdo |
+| Nome | "BOB PROCTOR" em fita dourada ou em assinatura |
+| Marca | Sem fita nem texto com o nome do canal na capa (decisão de 08/10). A ferramenta ainda aceita `--marca`, desligado por padrão |
 | Tamanho | 1280 x 720, até 2 MB |
 | Canto inferior direito | Livre: é onde o YouTube mostra a duração |
 
@@ -36,7 +36,7 @@ Cada padrão vem de um grupo de capas virais da [pesquisa](../pesquisa/padroes-t
 | Padrão | De onde vem | Arranjo | Tipo de headline | Quando usar |
 | --- | --- | --- | --- | --- |
 | **A. Faixa** | Lewis Howes (de 400 mil a 11 milhões) | Autoridade à esquerda com contorno dourado; símbolo à direita; texto em 3 linhas no centro, com a faixa azul-petróleo atrás da palavra grande | Curiosidade ou tema ("SEU TETO FINANCEIRO") | Padrão de base. Bom para vídeos de conceito |
-| **B. Retrato P&B** | Ensaios com Napoleon Hill (1,2 milhão e 1,1 milhão), "AO ACORDAR OUÇA ISSO" | Autoridade grande em preto e branco à esquerda, que se funde ao fundo; texto em 3 linhas à direita, palavra de impacto dourada com sublinhado vermelho-laranja; assinatura "Segundo Bob Proctor" | Comando ("PERMITA-SE GANHAR MAIS") | Vídeos de ação e de hábito. É o mais próximo do estilo dos ensaios narrados |
+| **B. Retrato P&B** | Ensaios com Napoleon Hill (1,2 milhão e 1,1 milhão), "AO ACORDAR OUÇA ISSO" | Autoridade grande em preto e branco à esquerda, que se funde ao fundo; texto em 3 linhas à direita, palavra de impacto dourada com sublinhado vermelho-laranja; assinatura "Bob Proctor" | Comando ("PERMITA-SE GANHAR MAIS") | Vídeos de ação e de hábito. É o mais próximo do estilo dos ensaios narrados |
 | **C. Prazo gigante** | Capas com prazo do Howes ("EM 30 DIAS", "9 DAYS") e dos mais vistos com número | Autoridade colorida à direita; número ou prazo enorme com brilho dourado à esquerda; sublinhado vermelho-laranja | Prazo ou número ("TESTE DE 7 DIAS", "7 LEIS") | Vídeos de lista, de teste de 7 dias e de passos |
 
 A mesma ideia vale para os três: **a autoridade e os elementos de fundo aparecem juntos**, o texto ocupa mais da metade da capa e a palavra de impacto é a mais legível a 168 x 94 pixels. Os exemplos foram conferidos nesse tamanho.
@@ -76,7 +76,7 @@ A foto é o elemento mais importante e o que mais pede cuidado.
 
 - Pegar foto de outro canal, de captura de tela de vídeo de terceiros ou de miniatura de outro vídeo.
 - Usar imagem gerada por IA de aparência realista dele. Isso exige divulgação de conteúdo sintético na plataforma e agrava o risco acima.
-- Escrever uma citação entre aspas com o nome dele que ele não disse. A fita diz "SEGUNDO BOB PROCTOR" para deixar claro que o vídeo fala dos ensinamentos dele e que ele não está falando nem endossando o canal.
+- Escrever uma citação entre aspas com o nome dele que ele não disse. A fita traz só o nome ("BOB PROCTOR"), sem frase escrita no lugar dele.
 
 **Autorização informada:** o dono do canal informou em 08/10 que o direito de imagem do Proctor está liberado para criação de conteúdo. Ele morreu em 2022, então a liberação precisa vir do instituto ou do espólio. O documento e o escopo estão no [registro](autorizacao-imagem.md), ainda pendente. A autorização da imagem não resolve o direito autoral de cada foto.
 
@@ -89,7 +89,7 @@ A foto é o elemento mais importante e o que mais pede cuidado.
 ```bash
 python3 compor_capa.py --modelo faixa --autoridade foto_proctor.png \
   --linha1 "SEU" --palavra "TETO" --linha3 "FINANCEIRO" --simbolo teto \
-  --marca "NOME DO CANAL" --saida capa_ep01_a.png
+  --saida capa_ep01_a.png
 ```
 
 Troque `--modelo` por `retrato` ou `prazo` para os outros dois padrões. Sem foto ainda, use `--autoridade placeholder`.
