@@ -78,6 +78,8 @@ A foto é o elemento mais importante e o que mais pede cuidado.
 - Usar imagem gerada por IA de aparência realista dele. Isso exige divulgação de conteúdo sintético na plataforma e agrava o risco acima.
 - Escrever uma citação entre aspas com o nome dele que ele não disse. A fita diz "SEGUNDO BOB PROCTOR" para deixar claro que o vídeo fala dos ensinamentos dele e que ele não está falando nem endossando o canal.
 
+**Autorização informada:** o dono do canal informou em 08/10 que o direito de imagem do Proctor está liberado para criação de conteúdo. Ele morreu em 2022, então a liberação precisa vir do instituto ou do espólio. O documento e o escopo estão no [registro](autorizacao-imagem.md), ainda pendente. A autorização da imagem não resolve o direito autoral de cada foto.
+
 **Risco, em uma frase:** usar a foto de uma pessoa, viva ou falecida, em capa de vídeo monetizado sem licença ou autorização pode gerar pedido de retirada, perda de monetização ou ação por direito de imagem. No Brasil, o Código Civil (art. 20) permite proibir o uso da imagem para fins comerciais sem autorização, e, no caso de pessoa falecida, o cônjuge, os ascendentes e os descendentes podem pedir. Isto é orientação geral, não parecer jurídico. Vale confirmar com um advogado antes de publicar. Canais concorrentes usam a foto dele, mas não sei se têm licença.
 
 ## 6. Ferramenta

@@ -465,7 +465,7 @@ Obrigado por ficar até aqui. Até o próximo vídeo.
 >
 > Fontes: Klontz e outros (2011), Journal of Financial Therapy, sobre crenças sobre dinheiro. Gollwitzer e Sheeran (2006), Advances in Experimental Social Psychology, sobre intenções de implementação. Gabriele Oettingen, sobre contraste mental. Bob Proctor: paradigma, autoimagem e barreira do terror, conforme materiais do Proctor Gallagher Institute e do Nightingale-Conant.
 >
-> Aviso: conteúdo educativo, sem promessa de resultado, que não substitui orientação financeira ou psicológica. Os exemplos da Carla e do Marcos são hipotéticos. Este canal não tem vínculo com Bob Proctor nem com o Proctor Gallagher Institute. Narração por voz sintética e imagens geradas por IA ou ilustradas.
+> Aviso: conteúdo educativo, sem promessa de resultado, que não substitui orientação financeira ou psicológica. Os exemplos da Carla e do Marcos são hipotéticos. Este canal não tem vínculo com Bob Proctor nem com o Proctor Gallagher Institute. (Ajustar conforme a autorização: ver estrategia/autorizacao-imagem.md.) Narração por voz sintética e imagens geradas por IA ou ilustradas.
 
 **Tags:** bob proctor, lei da atração, mentalidade, dinheiro, prosperidade, merecimento, crenças sobre dinheiro, autoimagem, paradigma, desenvolvimento pessoal
 
