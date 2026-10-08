@@ -171,15 +171,15 @@ Um achado extra: o título do Vibração "Como criar uma vibração tão FORTE q
 
 ---
 
-## 8. Aplicação aos três primeiros vídeos
+## 8. Aplicação aos primeiros vídeos
 
-Os títulos atuais continuam válidos. Abaixo, alternativas que usam a receita, para os testes.
+Os títulos atuais continuam válidos. Abaixo, alternativas que usam a receita, para os testes. O EP03 (leis do dinheiro, de [plano-10-videos.md](../estrategia/plano-10-videos.md)) ainda não tem alternativas de título: o título atual é "As 7 Leis de Bob Proctor Para Aplicar no Seu Dinheiro (Com Exercício)" (69).
 
 | Vídeo | Título atual | Alternativa 1 | Alternativa 2 |
 | --- | --- | --- | --- |
 | EP01 | Por Que Você Não Se Permite Ter Dinheiro (e Como Mudar Isso) (60) | DESCUBRA Por Que Você Não Se Permite Ter Dinheiro: Teste de 7 Dias (66) | O Dinheiro SOME das Suas Mãos: Faça Este Teste de 7 Dias (56) |
 | EP02 | O Paradigma do Dinheiro: Por Que Você Volta Sempre ao Mesmo Ponto (65) | O Paradigma do Dinheiro: Por Que Você VOLTA Sempre ao Mesmo Ponto (65) | Pare de Voltar ao Mesmo Ponto: Reajuste o Seu Termostato do Dinheiro (68) |
-| EP03 | A Lei da Atração Não Funciona Para Você? Faça Este Teste de 7 Dias (66) | A Lei da Atração NÃO Funciona Para Você: Faça Este Teste de 7 Dias (66) | Visualizar Sucesso Pode ATRAPALHAR: O Que Fazer no Lugar (56) |
+| EP04 (lei da atração) | A Lei da Atração Não Funciona Para Você? Faça Este Teste de 7 Dias (66) | A Lei da Atração NÃO Funciona Para Você: Faça Este Teste de 7 Dias (66) | Visualizar Sucesso Pode ATRAPALHAR: O Que Fazer no Lugar (56) |
 
 Os títulos de "teste de 7 dias" prometem um teste, não um resultado. As alternativas são afirmações ou comandos, em linha com a amostra.
 
@@ -189,7 +189,8 @@ Os títulos de "teste de 7 dias" prometem um teste, não um resultado. As altern
 | --- | --- | --- | --- |
 | EP01 | SEU TETO FINANCEIRO | O DINHEIRO SOME? FAÇA ISTO | VOCÊ SE PERMITE? |
 | EP02 | SEU TERMOSTATO | VOLTA AO MESMO PONTO? | REAJUSTE SEU NORMAL |
-| EP03 | VISUALIZAR NÃO BASTA | TESTE DE 7 DIAS | ONDE VOCÊ ERRA |
+| EP03 (leis do dinheiro) | AS 7 LEIS DO DINHEIRO | APLIQUE AS 7 LEIS | LEIS DO DINHEIRO NA PRÁTICA |
+| EP04 (lei da atração) | VISUALIZAR NÃO BASTA | TESTE DE 7 DIAS | ONDE VOCÊ ERRA |
 
 Imagem para as três: símbolo central (teto de vidro, termostato, caderno com sete quadrados), luz dourada ao fundo, sem rosto. Teste de paleta: padrão (fundo escuro, amarelo e branco) contra própria (azul-petróleo e dourado), e texto na faixa de cor contra sem faixa.
 
@@ -201,6 +202,7 @@ Imagem para as três: símbolo central (teto de vidro, termostato, caderno com s
 - **Viés de sobrevivência.** Vemos os que deram certo, e vídeos com os mesmos padrões e poucas visualizações não aparecem na lista.
 - **Canal grande.** O Howes vende pela marca, pelos convidados e pela rede. O mesmo título num canal novo pode render muito menos.
 - **Idade.** Os maiores do Howes têm 2 a 3 anos, quando "manifestação" estava em alta.
+- **Leis do dinheiro.** O vídeo mais visto do Vibração em 08/10 ("As 11 Leis do Universo Que Multiplicam o Seu Dinheiro", 20 mil) e vários vídeos de lista com dinheiro em outros canais sugerem que esse formato tem espaço. Ver [plano](../estrategia/plano-10-videos.md).
 - **Só olhei capas das listas, não testei nenhuma.** O plano de testes do canal é o que vai dizer o que vale.
 
 **Próximos passos:** escolher entre as alternativas de título e capa do EP01, testar as duas famílias de capa (sem faixa e com faixa) e, depois de 13/10, usar a NextLev para comparar os dados de CTR, quando existirem, e ver o que cada família rendeu.
