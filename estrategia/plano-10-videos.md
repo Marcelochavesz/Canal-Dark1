@@ -9,7 +9,7 @@
 | Micronichos | Os três: **reprogramar a mente para o dinheiro (2)**, **merecimento (3)** e **lei da atração sem ilusão (1)**. O foco está em 2 e 3. |
 | Formato | Narração com imagens ao fundo, como o Vibração, com roteiro de protocolo ([formato](../roteiros/formato-imagens-sobre-narracao.md)). |
 
-Base de dados: [subnichos](subnichos.md), [público-alvo](../pesquisa/publico-alvo.md), [estrutura de retenção](../roteiros/estrutura-retencao.md).
+Base de dados: [subnichos](subnichos.md), [público-alvo](../pesquisa/publico-alvo.md), [estrutura de retenção](../roteiros/estrutura-retencao.md) e [padrões de títulos e capas](../pesquisa/padroes-titulos-capas.md). Esta última traz alternativas de título e de capa para o EP01 ao EP03, a testar.
 
 ## Como os 10 se distribuem
 

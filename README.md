@@ -19,7 +19,7 @@ Detalhes e checklist: [`checklist-publicacao.md`](checklist-publicacao.md). O ch
 | Pasta ou arquivo | Para quê |
 | --- | --- |
 | [`estrategia/`](estrategia/estrategia-do-canal.md) | [Estratégia](estrategia/estrategia-do-canal.md), [subnichos](estrategia/subnichos.md) e [plano dos 10 primeiros vídeos](estrategia/plano-10-videos.md) |
-| [`pesquisa/`](pesquisa/publico-alvo.md) | [Público-alvo](pesquisa/publico-alvo.md) (comentários), [transcrições do Vibração](pesquisa/transcricoes-vibracao/README.md) e [análise dos canais de referência](pesquisa/analise-canais.md) |
+| [`pesquisa/`](pesquisa/publico-alvo.md) | [Público-alvo](pesquisa/publico-alvo.md) (comentários), [padrões de títulos e capas](pesquisa/padroes-titulos-capas.md), [transcrições do Vibração](pesquisa/transcricoes-vibracao/README.md) e [análise dos canais de referência](pesquisa/analise-canais.md) |
 | [`roteiros/`](roteiros/estrutura-retencao.md) | [Estrutura de retenção](roteiros/estrutura-retencao.md), [formato de imagens sobre narração](roteiros/formato-imagens-sobre-narracao.md), [EP01](roteiros/ep01-permissao-dinheiro.md), template e guia de estilo. O `ep01-comece-por-esta-ordem.md` é do projeto anterior de finanças |
 | [`ideias/`](ideias/ideias-videos.md) | Banco de ideias de vídeo (as atuais estão em `estrategia/`; o arquivo de ideias é do projeto anterior de finanças) |
 | [`metricas/`](metricas/videos.csv) | Planilha de acompanhamento dos vídeos |

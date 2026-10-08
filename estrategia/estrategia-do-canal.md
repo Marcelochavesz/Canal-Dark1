@@ -69,7 +69,7 @@ Título de até 70 caracteres. Texto da capa de 2 a 5 palavras. Fontes marcadas 
 3. No máximo uma palavra em maiúsculas.
 4. Prometer processo, nunca retorno em dinheiro.
 5. O nome do Proctor entra só quando o tema é um conceito dele (temas 7, 8 e 10) ou como teste.
-6. Título e capa se completam e não repetem as mesmas palavras.
+6. Título e capa levam a mesma promessa. Testar com palavras diferentes (padrão da Excelência) contra a promessa repetida em versão curta (padrão do Lewis Howes). Ver [padrões de títulos e capas](../pesquisa/padroes-titulos-capas.md).
 
 **Teste:** nos dois primeiros vídeos, publicar uma versão com o nome do Proctor e outra sem, e comparar CTR nas primeiras 48 horas.
 
