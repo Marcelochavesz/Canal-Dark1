@@ -47,14 +47,14 @@ Dado fica na tela por pelo menos 4 segundos.
 
 ## 4. Estilo visual
 
-- Ilustração cinematográfica, luz âmbar quente contra azul-petróleo, composição simples com um só assunto, espaço livre para texto, 16:9.
+- Ilustração cinematográfica, luz âmbar quente contra azul-noite (a paleta da [identidade visual](../estrategia/identidade-visual.md)), composição simples com um só assunto, espaço livre para texto, 16:9.
 - Nas cenas do vídeo, pessoas só de costas ou em silhueta, sem rosto. A foto da autoridade entra na capa (ver [capas](../estrategia/capas-template.md)). Usá-la também nas cenas depende da mesma licença.
 - Nada de logotipo real, aplicativo de banco real, documento verdadeiro ou texto legível dentro da imagem (geradores erram o texto; o texto entra na edição).
 - Mãos geradas por IA costumam sair deformadas. Preferir objetos, silhuetas e closes que evitem mãos, ou conferir e refazer.
 
 **Prompt base** (trocar o trecho final pela descrição da cena):
 
-> Ilustração cinematográfica, luz âmbar quente contra azul-petróleo, composição simples com um único assunto, espaço livre para texto, formato 16:9, sem rostos reconhecíveis (pessoas de costas ou em silhueta), sem logotipos, sem texto legível. Cena: {descrição da cena}
+> Ilustração cinematográfica, luz âmbar quente contra azul-noite, composição simples com um único assunto, espaço livre para texto, formato 16:9, sem rostos reconhecíveis (pessoas de costas ou em silhueta), sem logotipos, sem texto legível. Cena: {descrição da cena}
 
 ## 5. Montagem e áudio
 

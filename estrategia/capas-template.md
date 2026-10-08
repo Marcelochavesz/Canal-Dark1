@@ -10,7 +10,7 @@
 
 ## 1. Identidade visual do canal
 
-Vale para os três padrões. Muda o arranjo, não a identidade.
+Vale para os três padrões. Muda o arranjo, não a identidade. O manual completo, com valores e regras, está em [identidade visual](identidade-visual.md) e na imagem [`capas/manual-de-thumbnail.png`](capas/manual-de-thumbnail.png).
 
 | Elemento | Valor |
 | --- | --- |
@@ -65,7 +65,7 @@ O recurso "Testar e comparar" do YouTube Studio aceita até três miniaturas por
 
 A foto é o elemento mais importante e o que mais pede cuidado.
 
-**Como deve ser:** rosto grande e nítido, olhando para a câmera ou levemente de lado, fundo removido (PNG com transparência), pelo menos 1000 pixels de altura, expressão forte. O contorno dourado e o recorte são feitos pela ferramenta.
+**Como deve ser:** rosto grande e nítido, olhando para a câmera ou levemente de lado, fundo removido (PNG com transparência), pelo menos 900 pixels de altura (as 7 poses recebidas têm 935), expressão forte. O contorno dourado e o recorte são feitos pela ferramenta.
 
 **De onde pode vir:**
 
