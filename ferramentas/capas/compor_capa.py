@@ -227,14 +227,43 @@ def suavizar_bordas(img):
     return img
 
 
+def suavizar_cortes(img, largura):
+    """Recorte com o corpo cortado reto na lateral (foto de busto): esmaece só as laterais onde o corpo toca a borda,
+    para não aparecer uma linha vertical dura (nem contorno em cima dela)."""
+    a = img.split()[3]
+    w, h = img.size
+    mascara = Image.new("L", (w, h), 255)
+    for lado in (0, 1):
+        x = 0 if lado == 0 else w - 1
+        borda = a.crop((x, 0, x + 1, h)).point(lambda v: 255 if v > 200 else 0)
+        borda = borda.resize((1, h)).filter(ImageFilter.GaussianBlur(max(2, h * 0.012)))
+        if not borda.getbbox():
+            continue
+        for i in range(largura):
+            t = i / largura  # 0 na borda, 1 dentro da foto
+            coluna = borda.point(lambda v, t=t: int(255 - (1 - t) * v))
+            mascara.paste(coluna, (i if lado == 0 else w - 1 - i, 0))
+    img.putalpha(ImageChops.multiply(a, mascara))
+    return img
+
+
 def autoridade(args, altura):
     if args.autoridade == "placeholder":
         img = busto_placeholder(altura, rotulo=not args.sem_rotulo)
     else:
         img = Image.open(args.autoridade)
-        img = img.convert("RGBA") if "A" in img.getbands() else suavizar_bordas(img.convert("RGB"))
-        r = altura / img.height
-        img = img.resize((max(1, int(img.width * r)), altura), Image.LANCZOS)
+        if "A" in img.getbands():
+            img = img.convert("RGBA")
+            caixa = img.split()[3].getbbox()  # tira a margem transparente em volta do recorte
+            if caixa:
+                img = img.crop(caixa)
+            r = altura / img.height
+            img = img.resize((max(1, int(img.width * r)), altura), Image.LANCZOS)
+            img = suavizar_cortes(img, max(8, int(img.width * 0.09)))
+        else:
+            img = suavizar_bordas(img.convert("RGB"))
+            r = altura / img.height
+            img = img.resize((max(1, int(img.width * r)), altura), Image.LANCZOS)
     if args.pb or args.modelo == "retrato":
         cinza = ImageEnhance.Contrast(ImageOps.grayscale(img.convert("RGB"))).enhance(1.2)
         img = Image.merge("RGBA", (cinza, cinza, cinza, img.split()[3]))

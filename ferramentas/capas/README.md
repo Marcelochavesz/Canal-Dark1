@@ -42,3 +42,9 @@ Os três modelos usam as mesmas opções. Troque `--modelo`:
 - Use uma foto **com licença comercial ou autorização por escrito**. Não use captura de tela de vídeo ou miniatura de terceiros, nem imagem de IA realista da pessoa.
 - Remova o fundo antes (PNG com transparência). Se mandar um JPG, a ferramenta só esmaece as bordas.
 - O `placeholder` é um busto genérico de teste. Não é retrato de ninguém.
+
+## Fotos reais
+
+- Use PNG ou WebP com **fundo transparente**. A ferramenta apara a margem transparente sozinha e esmaece as laterais em que o corpo foi cortado reto, para não aparecer uma linha vertical dura.
+- As fotos do Proctor e as capas finais **não vão para o repositório**, que é público: guarde em `ferramentas/capas/fotos/` ou em `capas-finais/`, que estão no `.gitignore`.
+- Poses recebidas em 08/10 (7): queixo sério, aponta para a câmera, dedo para cima, mão aberta, queixo pensativo, queixo sorrindo e dedo na têmpora. Quando uma pose vira capa, ela combina com a mensagem: aponta e dedo para cima funcionam melhor com comando ou prazo; queixo sério e pensativo, com o padrão retrato P&B.
