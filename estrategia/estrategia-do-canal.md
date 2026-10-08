@@ -1,6 +1,6 @@
 # Estratégia do canal
 
-Canal de mentalidade, lei da atração e prosperidade, em português do Brasil, sem rosto, usando Bob Proctor como fonte citada.
+Canal de mentalidade, lei da atração e prosperidade, em português do Brasil, sem apresentador (narração com imagens ao fundo), com Bob Proctor como autoridade central e foto dele na capa.
 
 **Meta:** ter mais resultado do que o O Caminho da Vibração no mesmo nicho, entregando algo que o espectador possa usar no mesmo dia.
 
@@ -163,7 +163,7 @@ Repetir o que vencer em dois vídeos seguidos. Não usar limite numérico antes 
 - **Público financeiramente vulnerável:** sem promessa de dinheiro, sem indicar produto, sem pressão de compra. Conteúdo educativo, não consultoria.
 - **Fé:** respeito. Não zombar, não prometer milagre.
 - **Saúde mental:** o tema do medo ganha aviso de buscar ajuda profissional quando a ansiedade atrapalhar a vida.
-- **Proctor:** terceira pessoa, fonte conferida, aviso de que o canal não tem vínculo com ele nem com o Proctor Gallagher Institute, sem imagem dele e sem citação inventada.
+- **Proctor:** terceira pessoa, fonte conferida, foto autorizada na capa com a fita "SEGUNDO BOB PROCTOR" e sem citação inventada. A autorização do canal é declarada só na descrição do canal, pelo dono; os vídeos e as descrições dos vídeos não tratam dela.
 - **Voz sintética:** declarar quando a plataforma exigir. Cuidar da qualidade (um comentário da amostra, "a tosse foi fantástica!", pode se referir a ruído na narração).
 - **Conteúdo repetitivo:** mudar exemplo, dado e ângulo a cada vídeo e conferir a política atual do YouTube para monetização.
 

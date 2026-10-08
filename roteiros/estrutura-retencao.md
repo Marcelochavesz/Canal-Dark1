@@ -1,6 +1,6 @@
 # Estrutura de roteiro para retenção
 
-Canal de mentalidade e lei da atração, em português do Brasil, sem rosto. Autoridade de referência: Bob Proctor, citado como fonte.
+Canal de mentalidade e lei da atração, em português do Brasil, sem apresentador. Autoridade central: Bob Proctor, citado como fonte e presente na capa.
 
 **Objetivo:** vídeos que segurem mais o espectador e rendam mais views do que os do O Caminho da Vibração, no mesmo nicho.
 
@@ -152,7 +152,7 @@ Cerca de 3.300 palavras a 150 palavras por minuto. Se o conteúdo só sustentar 
 ## 8. Limites e cuidados
 
 - **Sem voz clonada e sem fingir ser o Proctor.** Narrador do canal, terceira pessoa ("segundo Bob Proctor…"), só com o que ele de fato ensinou, e com a fonte conferida.
-- **Sem vínculo declarado.** Aviso na descrição de que o canal não tem relação com ele nem com o Proctor Gallagher Institute.
+- **Autorização só na descrição do canal.** A relação do canal com o Proctor é declarada pelo dono na descrição do canal. Nos vídeos e nas descrições dos vídeos não se fala dela, nem a favor nem contra.
 - **Sem promessa de resultado** e sem afirmação de saúde ou de fisiologia sem base.
 - **Sem exemplo inventado apresentado como real.** Hipotético sempre dito como hipotético.
 - **Voz sintética:** declarar quando a plataforma exigir.

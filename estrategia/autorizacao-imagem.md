@@ -6,7 +6,7 @@
 
 Em 08/10/2026, o dono do canal informou que o direito de imagem do Proctor está liberado para criação de conteúdo. Finalidade informada: aumentar o engajamento da imagem dele e torná-lo mais conhecido no Brasil, sem que ele ou o instituto precisem trabalhar nisso pessoalmente.
 
-Atualização de 08/10/2026: o dono do canal vai editar as imagens ele mesmo (recorte e ajustes), informou que não há problema de direitos autorais e pediu para **não mudar o aviso das descrições**, mantendo o padrão atual. O aviso segue como está no EP01.
+Atualização de 08/10/2026: o dono do canal vai editar as imagens ele mesmo (recorte e ajustes), informou que não há problema de direitos autorais e pediu que **os vídeos e as descrições dos vídeos não citem a autorização**. Ele vai declará-la de forma explícita na descrição do canal, que segue o padrão do Vibração.
 
 ## O que as fontes dizem
 
@@ -32,7 +32,6 @@ Direito de imagem da pessoa e direito autoral da fotografia são coisas diferent
 
 ## Efeito no canal
 
-- **Se há autorização formal que inclui o canal:** o aviso das descrições muda de "este canal não tem vínculo com Bob Proctor nem com o Proctor Gallagher Institute" para o que o documento permitir. A relação divulgada precisa ser verdadeira.
-- **Se não há vínculo formal** (por exemplo, a liberação é geral): o aviso "sem vínculo" continua.
-- **Se a liberação foi só verbal ou veio de alguém sem poder de conceder:** tratar como não autorizada, e a foto não entra nas capas até resolver.
+- **Onde a autorização aparece:** só na descrição do canal, escrita pelo dono. Os roteiros e as descrições dos vídeos não tratam dela. O que for dito na descrição do canal precisa ser verdadeiro e dentro do que o documento permitir (por exemplo, não sugerir que o instituto produz o canal se ele só autorizou o uso).
+- **Se a liberação foi só verbal ou veio de alguém sem poder de conceder:** o risco é do dono do canal. Convém guardar o documento (ver tabela acima) antes de publicar.
 - **Em qualquer caso:** sem citação inventada com o nome dele, sem fala em nome dele e sem produtos ou promessas em nome dele.

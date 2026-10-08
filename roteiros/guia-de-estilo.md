@@ -17,7 +17,7 @@ Os roteiros seguem a estrutura e a cadência dos vídeos de maior sucesso do can
 
 | No canal de referência | Aqui |
 | --- | --- |
-| Biografia dramática (infância pobre, trabalho cedo, décadas no mercado) como história central | Trajetória pública de uma autoridade contada em **terceira pessoa**, com "segundo reportagens", fontes na descrição e aviso de que o canal não tem vínculo com ela. Se o narrador tiver uma história real própria, ela pode ser contada em primeira pessoa |
+| Biografia dramática (infância pobre, trabalho cedo, décadas no mercado) como história central | Trajetória pública de uma autoridade contada em **terceira pessoa**, com "segundo reportagens" e fontes na descrição. Se o narrador tiver uma história real própria, ela pode ser contada em primeira pessoa |
 | Casos pessoais ("conheço um empresário…") | Casos com o mesmo drama, escritos como **personagens hipotéticos** e avisados como tal (Ana, Paulo, Dona Cida) |
 | "Estudos mostram…" | Estudos reais citados com título, autores, ano e revista, e com o que o estudo não prova |
 | Retorno médio alto (como 15% ao ano) assumido como fato | Tabela de **cenários** (6%, 9%, 12% e 15% ao ano), com o 15% dito em voz alta como cenário otimista, sem garantia |

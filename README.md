@@ -10,7 +10,7 @@ O canal usa **roteiros originais**. Autoridades entram como **fonte citada**, nu
 2. **Narração:** voz própria ou voz sintética genérica, declarada quando a plataforma exigir. Sem clonagem da voz de pessoa real, e sem imitar o estilo para parecer que é ela.
 3. **Sem biografia inventada.** O narrador não conta infância ou casos pessoais que não aconteceram. Exemplos hipotéticos são ditos como hipotéticos.
 4. **Dados com fonte na tela.** Sem promessa de resultado (dinheiro, saúde) e sem indicar produtos ou ativos.
-5. **Títulos e capas:** a capa traz a autoridade, com foto **licenciada ou autorizada** (nunca captura de tela de terceiros nem imagem de IA realista dele). Sem citação inventada entre aspas com o nome dele, com a fita "SEGUNDO BOB PROCTOR" e sem sugerir vínculo com ele ou com o Proctor Gallagher Institute.
+5. **Títulos e capas:** a capa traz a autoridade, com foto **licenciada ou autorizada** (nunca captura de tela de terceiros nem imagem de IA realista dele). Sem citação inventada entre aspas com o nome dele, com a fita "SEGUNDO BOB PROCTOR". A autorização do canal é declarada só na descrição do canal; os vídeos e as descrições dos vídeos não falam dela.
 
 Detalhes e checklist: [`checklist-publicacao.md`](checklist-publicacao.md). O checklist ainda tem itens do projeto anterior de finanças e precisa ser revisto.
 

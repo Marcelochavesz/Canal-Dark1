@@ -192,7 +192,7 @@ Os títulos de "teste de 7 dias" prometem um teste, não um resultado. As altern
 | EP03 (leis do dinheiro) | AS 7 LEIS DO DINHEIRO | APLIQUE AS 7 LEIS | LEIS DO DINHEIRO NA PRÁTICA |
 | EP04 (lei da atração) | VISUALIZAR NÃO BASTA | TESTE DE 7 DIAS | ONDE VOCÊ ERRA |
 
-Imagem para as três: símbolo central (teto de vidro, termostato, caderno com sete quadrados), luz dourada ao fundo, sem rosto. Teste de paleta: padrão (fundo escuro, amarelo e branco) contra própria (azul-petróleo e dourado), e texto na faixa de cor contra sem faixa.
+Imagem para as três: símbolo central (teto de vidro, termostato, caderno com sete quadrados), luz dourada ao fundo, sempre ao lado da foto da autoridade (decisão de 08/10). Teste de paleta: padrão (fundo escuro, amarelo e branco) contra própria (azul-petróleo e dourado), e texto na faixa de cor contra sem faixa.
 
 ---
 

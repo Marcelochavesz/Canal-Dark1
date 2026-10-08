@@ -21,7 +21,7 @@ Passar item por item antes de enviar cada vídeo.
 
 - [ ] O título e a miniatura entregam o que o vídeo cumpre.
 - [ ] O nome de autoridades não aparece no título de um jeito que sugira que a pessoa está falando.
-- [ ] A descrição traz fontes, aviso de conteúdo educacional e a declaração de que o canal não tem vínculo com as pessoas citadas.
+- [ ] A descrição traz capítulos, fontes e aviso de conteúdo educacional, sem promessa de resultado. A autorização do canal fica só na descrição do canal.
 
 ## Direitos
 
