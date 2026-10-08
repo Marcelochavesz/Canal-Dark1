@@ -6,6 +6,8 @@ Canal de mentalidade, lei da atração e prosperidade, em português do Brasil, 
 
 **Base:** [público-alvo](../pesquisa/publico-alvo.md) (200 comentários), [estrutura de retenção](../roteiros/estrutura-retencao.md) (59 vídeos da rede e 8 roteiros), 25 capas analisadas. Tudo isso é hipótese até medirmos o nosso próprio canal. Nenhum método garante viralizar.
 
+**Decisões de 08/10/2026:** Proctor como autoridade central, com outros autores citados quando útil. Fé só como tom, com foco no que é concreto. Três micronichos (reprogramar a mente para o dinheiro, merecimento e lei da atração sem ilusão), com foco nos dois primeiros. Formato de narração com imagens ao fundo. O plano dos primeiros vídeos está em [plano-10-videos.md](plano-10-videos.md), os subnichos em [subnichos.md](subnichos.md) e o EP01 em [roteiros/ep01-permissao-dinheiro.md](../roteiros/ep01-permissao-dinheiro.md).
+
 ---
 
 ## 1. Para quem
@@ -162,7 +164,7 @@ Repetir o que vencer em dois vídeos seguidos. Não usar limite numérico antes 
 - **Fé:** respeito. Não zombar, não prometer milagre.
 - **Saúde mental:** o tema do medo ganha aviso de buscar ajuda profissional quando a ansiedade atrapalhar a vida.
 - **Proctor:** terceira pessoa, fonte conferida, aviso de que o canal não tem vínculo com ele nem com o Proctor Gallagher Institute, sem imagem dele e sem citação inventada.
-- **Voz sintética:** declarar quando a plataforma exigir. Cuidar da qualidade (um comentário da amostra menciona ruído na narração).
+- **Voz sintética:** declarar quando a plataforma exigir. Cuidar da qualidade (um comentário da amostra, "a tosse foi fantástica!", pode se referir a ruído na narração).
 - **Conteúdo repetitivo:** mudar exemplo, dado e ângulo a cada vídeo e conferir a política atual do YouTube para monetização.
 
 ---
