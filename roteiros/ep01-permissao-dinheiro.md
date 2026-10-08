@@ -446,7 +446,7 @@ Obrigado por ficar até aqui. Até o próximo vídeo.
 
 **Título (60 caracteres):** Por Que Você Não Se Permite Ter Dinheiro (e Como Mudar Isso)
 
-**Texto da capa:** SEU TETO FINANCEIRO. Imagem: foto do Proctor em destaque (autoridade sempre na capa), com o teto baixo de vidro e a luz dourada ao fundo. Usar os três padrões do [template de capas](../estrategia/capas-template.md) (faixa, retrato P&B, prazo gigante) e testar a paleta padrão (fundo escuro, amarelo e branco) contra a paleta própria (azul-petróleo com dourado).
+**Texto da capa:** SEU TETO FINANCEIRO. Imagem: foto do Proctor em destaque (autoridade sempre na capa), com o teto baixo de vidro e a luz dourada ao fundo. Usar os três padrões do [template de capas](../estrategia/capas-template.md) (faixa, retrato P&B, prazo gigante) com a faixa vermelho-laranja e a palavra de impacto amarela; testar depois a palavra branca (`--paleta vermelha`).
 
 **Descrição:**
 

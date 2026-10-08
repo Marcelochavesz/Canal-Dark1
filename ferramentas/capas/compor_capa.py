@@ -26,9 +26,9 @@ FONTE = os.path.join(PASTA, "fontes", "Anton-Regular.ttf")
 ASSINATURA = os.path.join(PASTA, "fontes", "DancingScript-Bold.ttf")
 INCLINACAO = 12  # graus, como em itálico
 
-# Identidade do canal. "marca" é o padrão; "vermelha" é variação de teste da faixa.
+# Identidade do canal. "marca" é o padrão (faixa vermelho-laranja, palavra amarela); "vermelha" é variação de teste com a palavra branca.
 PALETAS = {
-    "marca": dict(fundo=((8, 18, 34), (22, 40, 58)), faixa=(14, 90, 102), destaque=(255, 200, 61),
+    "marca": dict(fundo=((8, 18, 34), (22, 40, 58)), faixa=(230, 62, 28), destaque=(255, 200, 61),
                   texto=(255, 255, 255), acento=(230, 62, 28), contorno=(0, 0, 0)),
     "vermelha": dict(fundo=((8, 18, 34), (22, 40, 58)), faixa=(230, 62, 28), destaque=(255, 255, 255),
                      texto=(255, 255, 255), acento=(255, 200, 61), contorno=(0, 0, 0)),

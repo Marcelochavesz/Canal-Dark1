@@ -17,7 +17,7 @@ Vale para os três padrões. Muda o arranjo, não a identidade.
 | Fundo | Azul-marinho escuro em degradê, com brilho dourado atrás da cena |
 | Palavra de impacto | Dourado (255, 200, 61), com contorno preto |
 | Linhas de apoio | Branco, com contorno preto |
-| Faixa | Azul-petróleo (14, 90, 102) |
+| Faixa | Vermelho-laranja (230, 62, 28), decisão de 08/10 (antes era azul-petróleo) |
 | Acento | Vermelho-laranja (230, 62, 28), usado em sublinhado e detalhes |
 | Fonte do texto | Anton, caixa alta, inclinada 12 graus |
 | Fonte da assinatura | Dancing Script (só no padrão retrato) |
@@ -27,7 +27,7 @@ Vale para os três padrões. Muda o arranjo, não a identidade.
 | Tamanho | 1280 x 720, até 2 MB |
 | Canto inferior direito | Livre: é onde o YouTube mostra a duração |
 
-A paleta "vermelha" (faixa vermelho-laranja, palavra branca) fica na ferramenta como variação de teste da faixa, por ser muito parecida com a do Lewis Howes.
+A faixa vermelha é parecida com a do Lewis Howes, de propósito: é o padrão que já provou funcionar. O que separa o canal dele é a palavra amarela, o contorno dourado da autoridade e o fundo azul-marinho. A paleta "vermelha" fica na ferramenta como variação de teste, com a palavra branca no lugar da amarela.
 
 ## 2. Os três padrões
 
@@ -35,7 +35,7 @@ Cada padrão vem de um grupo de capas virais da [pesquisa](../pesquisa/padroes-t
 
 | Padrão | De onde vem | Arranjo | Tipo de headline | Quando usar |
 | --- | --- | --- | --- | --- |
-| **A. Faixa** | Lewis Howes (de 400 mil a 11 milhões) | Autoridade à esquerda com contorno dourado; símbolo à direita; texto em 3 linhas no centro, com a faixa azul-petróleo atrás da palavra grande | Curiosidade ou tema ("SEU TETO FINANCEIRO") | Padrão de base. Bom para vídeos de conceito |
+| **A. Faixa** | Lewis Howes (de 400 mil a 11 milhões) | Autoridade à esquerda com contorno dourado; símbolo à direita; texto em 3 linhas no centro, com a faixa vermelho-laranja atrás da palavra grande | Curiosidade ou tema ("SEU TETO FINANCEIRO") | Padrão de base. Bom para vídeos de conceito |
 | **B. Retrato P&B** | Ensaios com Napoleon Hill (1,2 milhão e 1,1 milhão), "AO ACORDAR OUÇA ISSO" | Autoridade grande em preto e branco à esquerda, que se funde ao fundo; texto em 3 linhas à direita, palavra de impacto dourada com sublinhado vermelho-laranja; assinatura "Bob Proctor" | Comando ("PERMITA-SE GANHAR MAIS") | Vídeos de ação e de hábito. É o mais próximo do estilo dos ensaios narrados |
 | **C. Prazo gigante** | Capas com prazo do Howes ("EM 30 DIAS", "9 DAYS") e dos mais vistos com número | Autoridade colorida à direita; número ou prazo enorme com brilho dourado à esquerda; sublinhado vermelho-laranja | Prazo ou número ("TESTE DE 7 DIAS", "7 LEIS") | Vídeos de lista, de teste de 7 dias e de passos |
 
@@ -57,7 +57,7 @@ Fundo simbólico de cada episódio: teto de vidro (EP01), termostato (EP02), por
 O recurso "Testar e comparar" do YouTube Studio aceita até três miniaturas por vídeo. Isso casa com os três padrões. Confira se o recurso está disponível no seu canal.
 
 1. **Rodada 1 (primeiros 5 vídeos):** em cada vídeo, as três miniaturas são os três padrões com o **mesmo tema**. Registrar qual vence (CTR e fatia do tempo de exibição) em [`metricas/videos.csv`](../metricas/videos.csv).
-2. **Rodada 2:** com o padrão que mais vencer, testar uma variável por vez: a headline, a cor da palavra de impacto (dourado contra branco), a cor da faixa (azul-petróleo contra vermelho-laranja) e o tamanho da autoridade.
+2. **Rodada 2:** com o padrão que mais vencer, testar uma variável por vez: a headline, a cor da palavra de impacto (dourado contra branco, com `--paleta vermelha`) e o tamanho da autoridade.
 3. **Não parar cedo.** Deixar rodar até o YouTube indicar um vencedor ou até ter visualizações suficientes. Com poucos cliques, a diferença é ruído.
 4. **Registrar:** episódio, padrão, headline, CTR, tempo de exibição e data.
 
