@@ -6,6 +6,8 @@
 
 Em 08/10/2026, o dono do canal informou que o direito de imagem do Proctor está liberado para criação de conteúdo. Finalidade informada: aumentar o engajamento da imagem dele e torná-lo mais conhecido no Brasil, sem que ele ou o instituto precisem trabalhar nisso pessoalmente.
 
+Atualização de 08/10/2026: o dono do canal vai editar as imagens ele mesmo (recorte e ajustes), informou que não há problema de direitos autorais e pediu para **não mudar o aviso das descrições**, mantendo o padrão atual. O aviso segue como está no EP01.
+
 ## O que as fontes dizem
 
 - Bob Proctor morreu em 3 de fevereiro de 2022, segundo o comunicado do Proctor Gallagher Institute no PR.com e outras fontes. Quem pode liberar o uso de nome e imagem, então, é o instituto, o espólio ou os herdeiros, conforme os contratos dele.
