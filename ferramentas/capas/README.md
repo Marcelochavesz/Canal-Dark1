@@ -26,13 +26,13 @@ Os três modelos usam as mesmas opções. Troque `--modelo`:
 
 | Opção | Para que serve |
 | --- | --- |
-| `--autoridade` | Foto da autoridade (PNG com fundo transparente é o ideal) ou `placeholder` para testar o layout |
+| `--autoridade` | Foto da autoridade (PNG com fundo transparente é o ideal), `placeholder` (busto de teste) ou `silhueta` (molde sem o personagem, com o aviso de onde entra o avatar) |
 | `--linha1`, `--palavra`, `--linha3` | As três linhas do texto. A palavra é a grande. As outras duas são opcionais |
 | `--nome` | Texto da fita ou da assinatura. Padrão: `BOB PROCTOR` |
 | `--simbolo` | Arte provisória de fundo: `teto`, `termostato`, `caderno`, `porta` |
 | `--fundo` | Imagem de fundo própria (gerada), no lugar da arte provisória |
 | `--paleta` | `marca` (padrão do canal: faixa vermelho-laranja, palavra amarela) ou `vermelha` (variação de teste, palavra branca) |
-| `--espelhar` | Espelha a foto. Use com a autoridade à esquerda (modelos `faixa` e `retrato`), para a mão e o braço saírem pela borda esquerda em vez de ficarem cortados no meio da capa |
+| `--espelhar` | Espelha a foto. Regra: a mão do avatar fica voltada para o lado do texto. Autoridade à esquerda (`faixa`, `retrato`): foto original. Autoridade à direita (`prazo`): foto espelhada |
 | `--pb` | Autoridade em preto e branco (o modelo `retrato` já usa) |
 | `--marca` | Texto pequeno no canto (por exemplo o nome do canal). Desligado por padrão: as capas não levam fita com o nome do canal |
 | `--sem-rotulo` | Tira o rótulo "foto licenciada entra aqui" do placeholder |

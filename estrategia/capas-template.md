@@ -2,7 +2,7 @@
 
 **Decisão de 08/10/2026:** toda capa traz a autoridade (Bob Proctor), com elementos de fundo junto dela, como nas capas virais. O foco é uma capa fácil de ler e chamativa para o público-alvo. Não usamos mais capa só com símbolo e texto.
 
-**Exemplos:** [`capas/ab-padroes-ep01-ep04.jpg`](capas/ab-padroes-ep01-ep04.jpg), 12 capas (4 episódios, 3 padrões). A figura da autoridade nelas é um **busto genérico de teste**, com o rótulo "foto licenciada entra aqui". Não é retrato do Proctor. A foto real entra pela ferramenta (seção 6).
+**Exemplos:** [`capas/ab-padroes-ep01-ep04.jpg`](capas/ab-padroes-ep01-ep04.jpg), 12 capas (4 episódios, 3 padrões). No lugar da autoridade há uma **silhueta** com o aviso "avatar Bob Proctor entra aqui". É o molde. O avatar entra pela ferramenta (seção 6) ou no ChatGPT, com os [prompts](prompts-thumbnail.md).
 
 **Pesquisa de base:** [padrões de títulos e capas](../pesquisa/padroes-titulos-capas.md).
 
@@ -10,7 +10,7 @@
 
 ## 1. Identidade visual do canal
 
-Vale para os três padrões. Muda o arranjo, não a identidade. O manual completo, com valores e regras, está em [identidade visual](identidade-visual.md) e na imagem [`capas/manual-de-thumbnail.png`](capas/manual-de-thumbnail.png).
+Vale para os três padrões. Muda o arranjo, não a identidade. O manual completo, com valores e regras, está em [identidade visual](identidade-visual.md) e no documento [`capas/identidade-visual-canal.pdf`](capas/identidade-visual-canal.pdf). Prompts para o ChatGPT: [prompts-thumbnail.md](prompts-thumbnail.md).
 
 | Elemento | Valor |
 | --- | --- |
@@ -67,7 +67,7 @@ A foto é o elemento mais importante e o que mais pede cuidado.
 
 **Como deve ser:** rosto grande e nítido, olhando para a câmera ou levemente de lado, fundo removido (PNG com transparência), pelo menos 900 pixels de altura (as 7 poses recebidas têm 935), expressão forte. O contorno dourado e o recorte são feitos pela ferramenta.
 
-**Sentido da foto:** o corpo nas fotos recebidas é cortado reto nas laterais, então o braço precisa sair pela borda da capa, nunca ficar cortado no meio dela. Autoridade à esquerda (padrões A e B): foto espelhada (`--espelhar`). Autoridade à direita (padrão C): foto no sentido original. Em 08/10 o dono do canal mandou as versões espelhadas e conferi que são cópias exatas das originais.
+**Regra da mão:** a mão do avatar fica voltada para o lado do texto, e não cortada pela borda da capa. Autoridade à esquerda (padrões A e B): foto no sentido original. Autoridade à direita (padrão C): foto espelhada (`--espelhar`). Em 08/10 eu apliquei isso ao contrário nas 12 capas de teste e o dono do canal corrigiu; vale a regra desta frase.
 
 **De onde pode vir:**
 
@@ -98,6 +98,6 @@ Troque `--modelo` por `retrato` ou `prazo` para os outros dois padrões. Sem fot
 
 ## 7. Limites
 
-- Os exemplos usam um busto genérico. O efeito com a foto real e com uma imagem de fundo gerada vai ser diferente (e, na maioria dos casos, melhor).
+- Os exemplos usam uma silhueta. O efeito com o avatar e com uma imagem de fundo gerada vai ser diferente (e, na maioria dos casos, melhor).
 - Não há CTR de nenhuma dessas capas. Os padrões vêm do que se repete nos vídeos mais vistos, e o teste do canal é que decide.
 - Foto de autoridade em capa é padrão nos nichos, mas a licença de uso ainda precisa ser resolvida.

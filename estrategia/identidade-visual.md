@@ -1,8 +1,8 @@
 # Identidade visual do canal (versão 1, 08/10/2026)
 
-Manual em imagem: [`capas/manual-de-thumbnail.png`](capas/manual-de-thumbnail.png). Esta página é a mesma informação em texto, com os valores para copiar. As decisões vêm dos pedidos do dono do canal e da [pesquisa de capas](../pesquisa/padroes-titulos-capas.md). Os padrões e os testes A/B estão em [capas e testes A/B](capas-template.md). A ferramenta que aplica tudo isso está em [`ferramentas/capas`](../ferramentas/capas/README.md).
+Documento em PDF, com 4 páginas: [`capas/identidade-visual-canal.pdf`](capas/identidade-visual-canal.pdf). Ele traz o manual, os moldes sem o personagem, os elementos de fundo e os prompts para o ChatGPT. Esta página é a mesma informação em texto. Os prompts para copiar estão em [prompts-thumbnail.md](prompts-thumbnail.md). As decisões vêm dos pedidos do dono do canal e da [pesquisa de capas](../pesquisa/padroes-titulos-capas.md). Os padrões e os testes A/B estão em [capas e testes A/B](capas-template.md). A ferramenta que aplica tudo isso está em [`ferramentas/capas`](../ferramentas/capas/README.md).
 
-A imagem do manual usa um busto genérico no lugar da foto. As fotos do Proctor e as capas finais ficam fora do repositório, que é público.
+O documento usa uma silhueta com o aviso "avatar Bob Proctor entra aqui" no lugar da foto. As fotos do Proctor e as capas finais ficam fora do repositório, que é público.
 
 ## 1. Paleta
 
@@ -62,7 +62,7 @@ Variação de teste: palavra branca sobre a faixa brasa (`--paleta vermelha`). A
 
 - **Enquadramento:** plano médio, cabeça e ombros, cortado no peito.
 - **Olhar:** direto para a câmera. **Rosto:** no terço superior.
-- **Sentido da foto:** com a autoridade à esquerda (padrões A e B), a foto vai **espelhada**, e a mão e o braço saem pela borda esquerda da capa em vez de ficarem cortados no meio. Com a autoridade à direita (padrão C), a foto vai no sentido original, e o braço sai pela borda direita. A ferramenta faz isso com `--espelhar`.
+- **Regra da mão:** a mão do avatar fica sempre voltada para o lado do texto e nunca cortada pela borda da capa. Avatar à esquerda (padrões A e B): foto no sentido original. Avatar à direita (padrão C): foto **espelhada** (`--espelhar` na ferramenta).
 - **Mãos:** apontam para o texto ou para o espectador.
 - **Foto:** recorte limpo, com no mínimo 900 px de altura. As 7 poses recebidas têm 935 px.
 - **Canto livre:** nada no canto inferior direito, onde o YouTube mostra a duração do vídeo.
@@ -90,7 +90,20 @@ As 7 poses recebidas em 08/10 e onde cada uma funciona melhor. A pose acompanha 
 
 Um cenário por capa, desfocado atrás do texto, com a mesma luz âmbar. Próximos a criar: balança (merecimento), engrenagens (reprogramar), relógio (10 minutos) e degrau (medo).
 
-## 7. Cinco regras de bolso
+## 7. Elementos de fundo do nicho e do subnicho
+
+É o que dá identidade própria às capas. A assinatura do canal é a **luz âmbar atrás do assunto, a poeira dourada e objetos em ouro e vidro** sobre o azul-noite. Regras: um elemento principal e, no máximo, dois secundários; atrás ou ao lado do texto, nunca na frente do rosto; sem texto, número, logotipo ou rosto dentro do elemento; estilo 3D cinematográfico semirrealista, sem cartoon, emoji ou neon colorido. As mesmas ideias aparecem nas cenas dos vídeos, para o espectador reconhecer o canal.
+
+| Grupo | Elementos (episódio planejado) |
+| --- | --- |
+| Nicho: mentalidade e prosperidade | Moedas de ouro, cédulas em voo, cofre aberto, ampulheta (EP09) |
+| Subnicho 1: lei da atração sem ilusão | Ímã (EP08), caderno de 7 dias (EP04), bússola, degraus de vidro (EP10) |
+| Subnicho 2: reprogramar a mente para o dinheiro | Cabeça com engrenagens (EP06), termostato (EP02), interruptor, circuito dourado |
+| Subnicho 3: merecimento | Teto de vidro (EP01), porta de luz (EP03), balança (EP07), chave e cadeado (EP05) |
+
+A frase pronta de cada elemento para usar no prompt está em [prompts-thumbnail.md](prompts-thumbnail.md).
+
+## 8. Cinco regras de bolso
 
 1. **2 a 5 palavras.** Máximo de 5, em até 3 linhas.
 2. **1 palavra em ouro.** O resto em branco.
@@ -98,7 +111,7 @@ Um cenário por capa, desfocado atrás do texto, com a mesma luz âmbar. Próxim
 4. **Canto livre.** Nada no canto inferior direito.
 5. **Teste a 168 px.** Se não lê na miniatura pequena, corte palavras.
 
-## 8. O que ainda falta
+## 9. O que ainda falta
 
 - **Nome do canal** e, depois dele, o logo, o avatar e o banner do canal. A capa não leva nome nem logo, mas o canal precisa deles. Sugestão: partir das mesmas cores, com o ouro sobre o azul-noite.
 - **Estilo do texto dentro do vídeo** (dados, refrões, número do sinal e do passo): usar Anton, branco com contorno preto e ouro para o destaque, como na capa. Ainda não foi desenhado.

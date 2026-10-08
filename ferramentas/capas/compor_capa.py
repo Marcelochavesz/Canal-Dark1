@@ -173,6 +173,29 @@ def fundo(pal, simbolo, cx, cy, s, intensidade=1.0, imagem=None):
 
 
 # ---------------------------------------------------------------- autoridade
+def silhueta_placeholder(h):
+    """Molde: silhueta neutra (sem rosto) com o aviso de onde entra o avatar do Bob Proctor."""
+    S = 3
+    Hh, Wd = h * S, int(h * 1.05) * S
+    im = Image.new("RGBA", (Wd, Hh), (0, 0, 0, 0))
+    d = ImageDraw.Draw(im)
+    cx, u = Wd / 2, Hh
+    cor = (64, 86, 114, 255)
+    d.polygon([(cx - .50 * u, u), (cx - .45 * u, .66 * u), (cx - .20 * u, .56 * u), (cx + .20 * u, .56 * u), (cx + .45 * u, .66 * u), (cx + .50 * u, u)], fill=cor)
+    d.rectangle((cx - .07 * u, .46 * u, cx + .07 * u, .58 * u), fill=cor)
+    d.ellipse((cx - .165 * u, .10 * u, cx + .165 * u, .50 * u), fill=(78, 102, 132, 255))
+    im = im.resize((Wd // S, Hh // S), Image.LANCZOS)
+    d = ImageDraw.Draw(im, "RGBA")
+    f = fonte(max(14, int(h * 0.058)))
+    linhas = ["AVATAR", "BOB PROCTOR", "ENTRA AQUI"]
+    y = int(h * 0.60)
+    for i, t in enumerate(linhas):
+        x0, y0, x1, y1 = f.getbbox(t)
+        d.text(((im.width - (x1 - x0)) / 2 - x0, y - y0), t, font=f, fill=(255, 200, 61, 255) if i == 1 else (255, 255, 255, 235))
+        y += int((y1 - y0) * 1.35)
+    return im
+
+
 def busto_placeholder(h, rotulo=True):
     """Busto genérico de homem de cabelo branco e óculos, só para testar o layout. Não é retrato de ninguém."""
     inteiro = _busto(int(h * 1.5))
@@ -250,6 +273,8 @@ def suavizar_cortes(img, largura):
 def autoridade(args, altura):
     if args.autoridade == "placeholder":
         img = busto_placeholder(altura, rotulo=not args.sem_rotulo)
+    elif args.autoridade == "silhueta":
+        img = silhueta_placeholder(altura)
     else:
         img = Image.open(args.autoridade)
         if args.espelhar:
@@ -415,7 +440,7 @@ def compor(args):
 def main():
     p = argparse.ArgumentParser(description="Compõe uma capa 1280x720 com a autoridade em destaque.")
     p.add_argument("--modelo", choices=sorted(MODELOS), default="faixa")
-    p.add_argument("--autoridade", required=True, help="foto da autoridade (PNG com transparência é o ideal) ou 'placeholder'")
+    p.add_argument("--autoridade", required=True, help="foto da autoridade (PNG com transparência é o ideal), 'placeholder' (busto de teste) ou 'silhueta' (molde: silhueta com o aviso de onde entra o avatar)")
     p.add_argument("--nome", default="BOB PROCTOR", help="fita ou assinatura com o nome. Vazio para não mostrar")
     p.add_argument("--linha1", default="", help="linha pequena de cima")
     p.add_argument("--palavra", required=True, help="palavra, número ou prazo grande")
@@ -423,7 +448,7 @@ def main():
     p.add_argument("--paleta", choices=sorted(PALETAS), default="marca")
     p.add_argument("--simbolo", choices=["teto", "termostato", "caderno", "porta"], default="teto")
     p.add_argument("--fundo", help="imagem de fundo própria no lugar da arte provisória")
-    p.add_argument("--espelhar", action="store_true", help="espelha a foto (autoridade à esquerda: a mão e o braço saem pela borda esquerda em vez de ficarem cortados no meio da capa)")
+    p.add_argument("--espelhar", action="store_true", help="espelha a foto. Regra: a mão do avatar fica voltada para o lado do texto. Autoridade à esquerda (faixa, retrato): foto original. Autoridade à direita (prazo): foto espelhada")
     p.add_argument("--pb", action="store_true", help="autoridade em preto e branco (o modelo retrato já usa)")
     p.add_argument("--marca", default="", help="texto pequeno de marca no canto, por exemplo o nome do canal")
     p.add_argument("--sem-rotulo", action="store_true", help="tira o rótulo do placeholder")
