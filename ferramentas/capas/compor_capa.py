@@ -252,6 +252,8 @@ def autoridade(args, altura):
         img = busto_placeholder(altura, rotulo=not args.sem_rotulo)
     else:
         img = Image.open(args.autoridade)
+        if args.espelhar:
+            img = ImageOps.mirror(img)
         if "A" in img.getbands():
             img = img.convert("RGBA")
             caixa = img.split()[3].getbbox()  # tira a margem transparente em volta do recorte
@@ -421,6 +423,7 @@ def main():
     p.add_argument("--paleta", choices=sorted(PALETAS), default="marca")
     p.add_argument("--simbolo", choices=["teto", "termostato", "caderno", "porta"], default="teto")
     p.add_argument("--fundo", help="imagem de fundo própria no lugar da arte provisória")
+    p.add_argument("--espelhar", action="store_true", help="espelha a foto (autoridade à esquerda: a mão e o braço saem pela borda esquerda em vez de ficarem cortados no meio da capa)")
     p.add_argument("--pb", action="store_true", help="autoridade em preto e branco (o modelo retrato já usa)")
     p.add_argument("--marca", default="", help="texto pequeno de marca no canto, por exemplo o nome do canal")
     p.add_argument("--sem-rotulo", action="store_true", help="tira o rótulo do placeholder")

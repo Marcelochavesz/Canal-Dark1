@@ -67,6 +67,8 @@ A foto é o elemento mais importante e o que mais pede cuidado.
 
 **Como deve ser:** rosto grande e nítido, olhando para a câmera ou levemente de lado, fundo removido (PNG com transparência), pelo menos 900 pixels de altura (as 7 poses recebidas têm 935), expressão forte. O contorno dourado e o recorte são feitos pela ferramenta.
 
+**Sentido da foto:** o corpo nas fotos recebidas é cortado reto nas laterais, então o braço precisa sair pela borda da capa, nunca ficar cortado no meio dela. Autoridade à esquerda (padrões A e B): foto espelhada (`--espelhar`). Autoridade à direita (padrão C): foto no sentido original. Em 08/10 o dono do canal mandou as versões espelhadas e conferi que são cópias exatas das originais.
+
 **De onde pode vir:**
 
 - Foto com **licença comercial** que cubra o uso de imagem de uma pessoa, ou **autorização por escrito** do detentor dos direitos (por exemplo, o Proctor Gallagher Institute).

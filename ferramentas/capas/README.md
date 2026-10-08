@@ -32,6 +32,7 @@ Os três modelos usam as mesmas opções. Troque `--modelo`:
 | `--simbolo` | Arte provisória de fundo: `teto`, `termostato`, `caderno`, `porta` |
 | `--fundo` | Imagem de fundo própria (gerada), no lugar da arte provisória |
 | `--paleta` | `marca` (padrão do canal: faixa vermelho-laranja, palavra amarela) ou `vermelha` (variação de teste, palavra branca) |
+| `--espelhar` | Espelha a foto. Use com a autoridade à esquerda (modelos `faixa` e `retrato`), para a mão e o braço saírem pela borda esquerda em vez de ficarem cortados no meio da capa |
 | `--pb` | Autoridade em preto e branco (o modelo `retrato` já usa) |
 | `--marca` | Texto pequeno no canto (por exemplo o nome do canal). Desligado por padrão: as capas não levam fita com o nome do canal |
 | `--sem-rotulo` | Tira o rótulo "foto licenciada entra aqui" do placeholder |

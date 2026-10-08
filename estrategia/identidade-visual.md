@@ -62,6 +62,7 @@ Variação de teste: palavra branca sobre a faixa brasa (`--paleta vermelha`). A
 
 - **Enquadramento:** plano médio, cabeça e ombros, cortado no peito.
 - **Olhar:** direto para a câmera. **Rosto:** no terço superior.
+- **Sentido da foto:** com a autoridade à esquerda (padrões A e B), a foto vai **espelhada**, e a mão e o braço saem pela borda esquerda da capa em vez de ficarem cortados no meio. Com a autoridade à direita (padrão C), a foto vai no sentido original, e o braço sai pela borda direita. A ferramenta faz isso com `--espelhar`.
 - **Mãos:** apontam para o texto ou para o espectador.
 - **Foto:** recorte limpo, com no mínimo 900 px de altura. As 7 poses recebidas têm 935 px.
 - **Canto livre:** nada no canto inferior direito, onde o YouTube mostra a duração do vídeo.
